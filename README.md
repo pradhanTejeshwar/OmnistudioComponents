@@ -1,108 +1,102 @@
-Here’s a sample `README.md` for your GitHub repository named **OmnistudioComponents**:  
-
-```markdown
-# OmnistudioComponents  
-
-Welcome to the **OmnistudioComponents** repository! 🚀  
-This repository contains all components from the Salesforce org related to **Omnistudio**, which includes everything from OmniScripts, FlexCards, DataRaptors, Integration Procedures, and other related configurations and customizations.  
-
-## Table of Contents  
-- [Overview](#overview)  
-- [Repository Structure](#repository-structure)  
-- [Pre-requisites](#pre-requisites)  
-- [How to Use](#how-to-use)  
-- [Contributing](#contributing)  
-- [License](#license)  
+Here's a professional and detailed `README.md` file for your GitHub repository: 
 
 ---
 
-## Overview  
+# OmnistudioComponents
 
-**OmnistudioComponents** is a centralized collection of Omnistudio assets designed for Salesforce developers and admins. These components aim to enhance productivity, standardize implementations, and enable seamless configuration and customization in Salesforce's Omnistudio ecosystem.  
+This repository contains all Omnistudio components extracted from a Salesforce org, including configurations, customizations, and implementations. The goal is to maintain an organized and comprehensive collection of all components related to Salesforce Omnistudio for development, debugging, and deployment purposes.
 
-### Key Features:  
-- Pre-built OmniScripts for guided user experiences  
-- FlexCards for modular, reusable UI components  
-- DataRaptors for efficient data transformations  
-- Integration Procedures for streamlined backend orchestration  
-- Configuration guidelines and metadata  
+## 📋 Table of Contents
+- [About the Project](#about-the-project)
+- [Components Included](#components-included)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## 🌟 About the Project
+Omnistudio is a suite of Salesforce tools that streamline digital-first experiences and help build guided interactions, streamlined business processes, and seamless integrations. This repository serves as a central hub for managing all Omnistudio-related components.
+
+The repository includes:
+- Configured components exported from Salesforce orgs
+- Pre-built Omnistudio DataRaptors, Integration Procedures, FlexCards, OmniScripts, and more
+- Reusable and customizable components for various use cases
+
+## 📂 Components Included
+The repository contains the following Salesforce Omnistudio components:
+- **FlexCards:** Prebuilt UI components for data visualization and interaction.
+- **OmniScripts:** Guided interactions for business processes.
+- **DataRaptors:** Extract, transform, and load operations for Salesforce data.
+- **Integration Procedures:** Declarative server-side data processes for integrations.
+- **Vlocity EPC Configurations:** Product and pricing configurations.
+- **Custom Omnistudio Templates & Designs**
+
+All components are structured and organized to match the Salesforce Metadata structure for easy deployment.
+
+## ✅ Prerequisites
+To utilize the components in this repository, ensure you have the following:
+- A Salesforce org with **Omnistudio** enabled
+- Salesforce CLI (SFDX) installed on your system
+- Proper user permissions for Omnistudio development and deployment
+- Git installed for version control
+
+## ⚙️ Installation
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/pradhanTejeshwar/OmnistudioComponents.git
+   ```
+2. Navigate to the repository folder:
+   ```bash
+   cd OmnistudioComponents
+   ```
+3. Authenticate with your Salesforce org using SFDX:
+   ```bash
+   sfdx auth:web:login
+   ```
+4. Deploy the components to your Salesforce org:
+   ```bash
+   sfdx force:source:deploy -p force-app
+   ```
+
+## 🚀 Usage
+- **For Developers:** Use this repository as a baseline for creating new Omnistudio components or as a reference for best practices.
+- **For Admins:** Deploy pre-configured components to streamline your business processes.
+- **For Teams:** Collaborate by contributing new components or enhancing existing ones.
+
+### Example Usage:
+- Modify and extend OmniScripts to fit specific business processes
+- Create custom DataRaptors for data extraction and transformation
+- Integrate third-party systems using Integration Procedures
+
+## 🤝 Contribution Guidelines
+We welcome contributions to this repository! To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Commit your changes with descriptive messages:
+   ```bash
+   git commit -m "Add: New OmniScript for [use-case]"
+   ```
+4. Push your changes to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Create a pull request for review.
+
+Please ensure your code follows Salesforce and Omnistudio best practices.
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+- Salesforce Omnistudio documentation
+- Contributors to this repository
+- The Salesforce developer community for resources and support
 
 ---
 
-## Repository Structure  
-
-The repository is organized as follows:  
-```plaintext
-OmnistudioComponents/  
-├── OmniScripts/          # OmniScript components and JSON templates  
-├── FlexCards/            # FlexCard JSON and metadata  
-├── DataRaptors/          # DataRaptor Extract, Transform, and Load definitions  
-├── IntegrationProcedures/ # Integration Procedures and metadata  
-├── Documentation/        # Guides, architecture diagrams, and usage instructions  
-├── Samples/              # Sample configurations and use cases  
-├── src/                  # Metadata for Salesforce DX deployment  
-└── README.md             # Project documentation  
-```  
-
----
-
-## Pre-requisites  
-
-Before using this repository, ensure you have the following:  
-- A Salesforce Developer Org or Sandbox with Omnistudio enabled.  
-- Installed Salesforce CLI (SFDX) for metadata deployment.  
-- Basic knowledge of Omnistudio components and their use cases.  
-
----
-
-## How to Use  
-
-### 1. Clone the Repository  
-```bash  
-git clone https://github.com/pradhanTejeshwar/OmnistudioComponents.git  
-```  
-
-### 2. Authenticate with Salesforce Org  
-Authenticate your Salesforce org using Salesforce CLI:  
-```bash  
-sfdx auth:web:login  
-```  
-
-### 3. Deploy Components to Your Org  
-Navigate to the repository's directory and deploy the components:  
-```bash  
-sfdx force:source:deploy -p ./src  
-```  
-
-### 4. Verify Deployment  
-Log in to your Salesforce org and verify the deployment of OmniScripts, FlexCards, DataRaptors, and other components.  
-
----
-
-## Contributing  
-
-We welcome contributions to enhance this repository! To contribute:  
-1. Fork the repository.  
-2. Create a new branch for your feature or bug fix.  
-3. Commit your changes and push the branch.  
-4. Submit a pull request with a detailed description of your changes.  
-
-### Guidelines:  
-- Follow best practices for Omnistudio development.  
-- Include clear documentation for any new components.  
-- Ensure backward compatibility with existing components.  
-
----
-
-## License  
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----  
-
-## Acknowledgements  
-
-Special thanks to the Salesforce and Omnistudio developer community for their continuous support and contributions.  
-
-Happy Developing! 🌟  
-```
+Feel free to update this `README.md` as your repository evolves! Let me know if you'd like help customizing it further.
