@@ -59,7 +59,7 @@ Before using this repository, ensure you have the following:
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/<your-username>/OmnistudioComponents.git  
+git clone https://github.com/pradhanTejeshwar/OmnistudioComponents.git  
 ```  
 
 ### 2. Authenticate with Salesforce Org  
@@ -106,8 +106,3 @@ Special thanks to the Salesforce and Omnistudio developer community for their co
 
 Happy Developing! 🌟  
 ```
-
-### Notes:  
-- Replace `<your-username>` in the `git clone` command with your GitHub username.  
-- Add a `LICENSE` file to your repository if you're using the MIT or another license.  
-- You can customize this README further to reflect your team's workflows or specific project requirements.
