@@ -1,0 +1,33 @@
+[
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 0,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "IsArchived": false,
+        "IsDerived": false,
+        "Name": "Galaxy M01",
+        "Pricebook2.Name": "Standard Price Book",
+        "Pricebook2Id": {
+            "Name": "Standard Price Book",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Pricebook2/Standard Price Book",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2.%vlocity_namespace%__GlobalKey__c": "593143a3-abfa-410c-d914-7f1cf7f316ac",
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": "593143a3-abfa-410c-d914-7f1cf7f316ac",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/593143a3-abfa-410c-d914-7f1cf7f316ac",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VPL_Galaxy M01",
+        "UnitPrice": 0,
+        "UseStandardPrice": false,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/Standard Price Book/Product2/593143a3-abfa-410c-d914-7f1cf7f316ac"
+    }
+]

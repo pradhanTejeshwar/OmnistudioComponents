@@ -1,0 +1,8 @@
+{
+    "%vlocity_namespace%__Description__c": "Enable logging on core when CPQNext 1a / 1b is enabled.",
+    "%vlocity_namespace%__SetupValue__c": "false",
+    "Name": "EnableCoreLogs",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__CpqConfigurationSetup__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__CpqConfigurationSetup__c/EnableCoreLogs"
+}

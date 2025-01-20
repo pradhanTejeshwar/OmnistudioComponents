@@ -1,0 +1,350 @@
+[
+    {
+        "%vlocity_namespace%__AddDate__c": "",
+        "%vlocity_namespace%__AttributeAdjustmentComments__c": "",
+        "%vlocity_namespace%__AttributeAdjustmentUnits__c": "",
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_EVC_ENDPOINT_DETAILS",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_EVC_ENDPOINT_DETAILS",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "EVC Endpoint Bandwidth",
+        "%vlocity_namespace%__AttributeDisplaySequence__c": "130",
+        "%vlocity_namespace%__AttributeId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTR_EVC_ENDPOINT_BANDWIDTH",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Attribute__c/VEPC_ATTR_EVC_ENDPOINT_BANDWIDTH",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
+        },
+        "%vlocity_namespace%__AttributeId__r.%vlocity_namespace%__Code__c": "VEPC_ATTR_EVC_ENDPOINT_BANDWIDTH",
+        "%vlocity_namespace%__AttributeName__c": "EVC Endpoint Bandwidth",
+        "%vlocity_namespace%__ConfigurationDetail__c": "",
+        "%vlocity_namespace%__ConfigurationStages__c": "",
+        "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
+        "%vlocity_namespace%__Data__c": "",
+        "%vlocity_namespace%__DefaultPicklistEntryId__c": "",
+        "%vlocity_namespace%__DefaultPicklistValueId__c": "",
+        "%vlocity_namespace%__DisplaySequence__c": "130",
+        "%vlocity_namespace%__EndStory__c": "",
+        "%vlocity_namespace%__ExcludedPicklistEntryIds__c": "",
+        "%vlocity_namespace%__ExcludedPicklistValues__c": "",
+        "%vlocity_namespace%__FormatMask__c": "",
+        "%vlocity_namespace%__GlobalKey__c": "57006b5f-3354-830b-bc07-bc745d208099",
+        "%vlocity_namespace%__HasRule__c": false,
+        "%vlocity_namespace%__HelpText__c": "kek, yo",
+        "%vlocity_namespace%__IsActiveAssignment__c": true,
+        "%vlocity_namespace%__IsConfigurable__c": true,
+        "%vlocity_namespace%__IsDynamic__c": false,
+        "%vlocity_namespace%__IsEncrypted__c": false,
+        "%vlocity_namespace%__IsHidden__c": false,
+        "%vlocity_namespace%__IsNotAssetizable__c": true,
+        "%vlocity_namespace%__IsNotTranslatable__c": false,
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsQueryDriven__c": false,
+        "%vlocity_namespace%__IsReadOnly__c": false,
+        "%vlocity_namespace%__IsRequired__c": false,
+        "%vlocity_namespace%__LookupFilter__c": "",
+        "%vlocity_namespace%__LookupObjectId__c": "",
+        "%vlocity_namespace%__LookupObjectTypeId__c": "",
+        "%vlocity_namespace%__ObjectId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "570196c4-5bee-aef7-c560-9ac55e4dbcf4",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/570196c4-5bee-aef7-c560-9ac55e4dbcf4",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__ObjectType__c": "Product2",
+        "%vlocity_namespace%__OverrideContext__c": "",
+        "%vlocity_namespace%__PicklistId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "b4612edd-3f6e-0dcf-640e-7730754f030c",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Picklist__c/b4612edd-3f6e-0dcf-640e-7730754f030c",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
+        },
+        "%vlocity_namespace%__QueryCode__c": "",
+        "%vlocity_namespace%__QueryLabel__c": "",
+        "%vlocity_namespace%__RemoveDate__c": "",
+        "%vlocity_namespace%__RemovedFlag__c": false,
+        "%vlocity_namespace%__RuleData__c": "",
+        "%vlocity_namespace%__RuleMessage__c": "",
+        "%vlocity_namespace%__StartStory__c": "",
+        "%vlocity_namespace%__StyleClass__c": "",
+        "%vlocity_namespace%__UIDisplayType__c": "Dropdown",
+        "%vlocity_namespace%__ValidValuesData__c": [
+            {
+                "displayText": "1 Mbps",
+                "id": "03d65f3f-a9aa-7c39-4ce0-6a033a041b68",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 10,
+                "value": "1 Mbps"
+            },
+            {
+                "displayText": "2 Mbps",
+                "id": "cf1247dc-d750-06e2-a9e8-6e37dc0893e7",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 20,
+                "value": "2 Mbps"
+            },
+            {
+                "displayText": "4 Mbps",
+                "id": "6274fb9d-a17d-5ee4-bcb7-fc23fade085b",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 30,
+                "value": "4 Mbps"
+            },
+            {
+                "displayText": "5 Mbps",
+                "id": "37d9dccd-27ef-1170-14df-0e62ff9928c1",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 40,
+                "value": "5 Mbps"
+            },
+            {
+                "displayText": "8 Mbps",
+                "id": "5afed09d-4965-8a43-b2e5-d5a659e76cfd",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 50,
+                "value": "8 Mbps"
+            },
+            {
+                "displayText": "10 Mbps",
+                "id": "f8cd8797-dc47-ba5f-be0d-89b9e84838cf",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 60,
+                "value": "10 Mbps"
+            },
+            {
+                "displayText": "20 Mbps",
+                "id": "414c7b20-18bc-7038-a7a8-45e4725c4664",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 70,
+                "value": "20 Mbps"
+            },
+            {
+                "displayText": "50 Mbps",
+                "id": "5521bdd3-5e49-cecd-3451-1604313c3b5c",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 80,
+                "value": "50 Mbps"
+            },
+            {
+                "displayText": "100 Mbps",
+                "id": "60a654fe-b3db-3848-a801-bff55c0da111",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 90,
+                "value": "100 Mbps"
+            },
+            {
+                "displayText": "150 Mbps",
+                "id": "c5b6cbb1-4b0c-1a60-9717-1a885b2ec7ec",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 100,
+                "value": "150 Mbps"
+            },
+            {
+                "displayText": "200 Mbps",
+                "id": "aefc7a15-a1d9-76b2-10ea-df26c4d455cf",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 110,
+                "value": "200 Mbps"
+            },
+            {
+                "displayText": "250 Mbps",
+                "id": "eb58123c-e412-e7a5-d0a3-9a104b8d48bf",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 120,
+                "value": "250 Mbps"
+            },
+            {
+                "displayText": "400 Mbps",
+                "id": "34f51efb-93b5-5b0a-190b-69893680ca27",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 130,
+                "value": "400 Mbps"
+            },
+            {
+                "displayText": "500 Mbps",
+                "id": "232c5c91-fb5a-99de-def8-13f5be60d03f",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 140,
+                "value": "500 Mbps"
+            },
+            {
+                "displayText": "600 Mbps",
+                "id": "ef0acc30-1a6b-2a5b-f996-ef2b7f55dc10",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 150,
+                "value": "600 Mbps"
+            },
+            {
+                "displayText": "1 Gbps",
+                "id": "7cfe647b-81f0-859f-d8cd-c7b7dc1ba2aa",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 160,
+                "value": "1 Gbps"
+            },
+            {
+                "displayText": "10 Gbps",
+                "id": "4c3e5240-bdeb-da46-bc4b-e1857049b610",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 170,
+                "value": "10 Gbps"
+            },
+            {
+                "displayText": "100 Gbps",
+                "id": "069181d7-5feb-e63e-a7e7-425aa6ba5cae",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 180,
+                "value": "100 Gbps"
+            }
+        ],
+        "%vlocity_namespace%__ValueDataType__c": "Picklist",
+        "%vlocity_namespace%__ValueDecoder__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Allocated bandwidth for a given EVC endpoint/leg",
+        "%vlocity_namespace%__Value__c": "",
+        "Name": "EVC Endpoint Bandwidth",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/57006b5f-3354-830b-bc07-bc745d208099"
+    },
+    {
+        "%vlocity_namespace%__AddDate__c": "",
+        "%vlocity_namespace%__AttributeAdjustmentComments__c": "",
+        "%vlocity_namespace%__AttributeAdjustmentUnits__c": "",
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_EVC_ENDPOINT_DETAILS",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_EVC_ENDPOINT_DETAILS",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "EVC Endpoint Class of Service",
+        "%vlocity_namespace%__AttributeDisplaySequence__c": "140",
+        "%vlocity_namespace%__AttributeId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTR_EVC_ENDPOINT_CLASS_OF_SERVICE",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Attribute__c/VEPC_ATTR_EVC_ENDPOINT_CLASS_OF_SERVICE",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
+        },
+        "%vlocity_namespace%__AttributeId__r.%vlocity_namespace%__Code__c": "VEPC_ATTR_EVC_ENDPOINT_CLASS_OF_SERVICE",
+        "%vlocity_namespace%__AttributeName__c": "EVC Endpoint Class of Service",
+        "%vlocity_namespace%__ConfigurationDetail__c": "",
+        "%vlocity_namespace%__ConfigurationStages__c": "",
+        "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
+        "%vlocity_namespace%__Data__c": "",
+        "%vlocity_namespace%__DefaultPicklistEntryId__c": "",
+        "%vlocity_namespace%__DefaultPicklistValueId__c": "",
+        "%vlocity_namespace%__DisplaySequence__c": "140",
+        "%vlocity_namespace%__EndStory__c": "",
+        "%vlocity_namespace%__ExcludedPicklistEntryIds__c": "",
+        "%vlocity_namespace%__ExcludedPicklistValues__c": "",
+        "%vlocity_namespace%__FormatMask__c": "",
+        "%vlocity_namespace%__GlobalKey__c": "7befd5a8-d5fd-4511-37ee-d75120bfd6c0",
+        "%vlocity_namespace%__HasRule__c": false,
+        "%vlocity_namespace%__HelpText__c": "kek, yo",
+        "%vlocity_namespace%__IsActiveAssignment__c": true,
+        "%vlocity_namespace%__IsConfigurable__c": true,
+        "%vlocity_namespace%__IsDynamic__c": false,
+        "%vlocity_namespace%__IsEncrypted__c": false,
+        "%vlocity_namespace%__IsHidden__c": false,
+        "%vlocity_namespace%__IsNotAssetizable__c": true,
+        "%vlocity_namespace%__IsNotTranslatable__c": false,
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsQueryDriven__c": false,
+        "%vlocity_namespace%__IsReadOnly__c": false,
+        "%vlocity_namespace%__IsRequired__c": false,
+        "%vlocity_namespace%__LookupFilter__c": "",
+        "%vlocity_namespace%__LookupObjectId__c": "",
+        "%vlocity_namespace%__LookupObjectTypeId__c": "",
+        "%vlocity_namespace%__ObjectId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "570196c4-5bee-aef7-c560-9ac55e4dbcf4",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/570196c4-5bee-aef7-c560-9ac55e4dbcf4",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__ObjectType__c": "Product2",
+        "%vlocity_namespace%__OverrideContext__c": "",
+        "%vlocity_namespace%__PicklistId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "d47fbff0-5b98-5aea-6bca-bc95b600b335",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Picklist__c/d47fbff0-5b98-5aea-6bca-bc95b600b335",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
+        },
+        "%vlocity_namespace%__QueryCode__c": "",
+        "%vlocity_namespace%__QueryLabel__c": "",
+        "%vlocity_namespace%__RemoveDate__c": "",
+        "%vlocity_namespace%__RemovedFlag__c": false,
+        "%vlocity_namespace%__RuleData__c": "",
+        "%vlocity_namespace%__RuleMessage__c": "",
+        "%vlocity_namespace%__StartStory__c": "",
+        "%vlocity_namespace%__StyleClass__c": "",
+        "%vlocity_namespace%__UIDisplayType__c": "Dropdown",
+        "%vlocity_namespace%__ValidValuesData__c": [
+            {
+                "displayText": "Real-Time",
+                "id": "3cce4179-a712-b6ad-e187-3ee09cc5b3de",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 10,
+                "value": "Real-Time"
+            },
+            {
+                "displayText": "Interactive",
+                "id": "0ef5162a-2c09-7b1d-9471-4970f65ce015",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 20,
+                "value": "Interactive"
+            },
+            {
+                "displayText": "Business Critical-High",
+                "id": "985c6e0a-1f85-7ca2-fd1c-747d46549599",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 30,
+                "value": "Business Critical-High"
+            },
+            {
+                "displayText": "Business Critical-Medium",
+                "id": "0a972909-6025-fec1-3b86-b0d6638745b5",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 40,
+                "value": "Business Critical-Medium"
+            },
+            {
+                "displayText": "Non-Critical",
+                "id": "5a4f092c-7869-42c1-ed47-ceb870d3ae6e",
+                "isDefault": false,
+                "isEditable": false,
+                "sequence": 50,
+                "value": "Non-Critical"
+            }
+        ],
+        "%vlocity_namespace%__ValueDataType__c": "Picklist",
+        "%vlocity_namespace%__ValueDecoder__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Assigned CoS for a given EVC endpoint/leg",
+        "%vlocity_namespace%__Value__c": "",
+        "Name": "EVC Endpoint Class of Service",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/7befd5a8-d5fd-4511-37ee-d75120bfd6c0"
+    }
+]

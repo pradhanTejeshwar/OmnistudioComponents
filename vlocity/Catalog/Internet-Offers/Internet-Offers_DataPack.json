@@ -1,0 +1,23 @@
+{
+    "%vlocity_namespace%__CatalogCode__c": "VPL_CAT_Internet",
+    "%vlocity_namespace%__CatalogProductRelationship__c": "Internet-Offers_CatalogProductRelationships.json",
+    "%vlocity_namespace%__DefaultPriceListId__c": {
+        "%vlocity_namespace%__Code__c": "VEPC_PRICELIST_B2B_PRICELIST",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__PriceList__c/VEPC_PRICELIST_B2B_PRICELIST",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__PriceList__c"
+    },
+    "%vlocity_namespace%__Description__c": "Catalog for Intenet Offers",
+    "%vlocity_namespace%__EndDateTime__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__IsCatalogRoot__c": false,
+    "%vlocity_namespace%__IsDefault__c": false,
+    "%vlocity_namespace%__SourceType__c": "",
+    "%vlocity_namespace%__StartDateTime__c": "2020-10-17T02:04:00.000Z",
+    "%vlocity_namespace%__VendorAccount__c": "",
+    "Name": "Internet Offers",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Catalog__c/24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d"
+}

@@ -1,0 +1,498 @@
+[
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "1ec69c08-224f-fb96-cff7-389adedb164b",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"0111\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 0111",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 0111/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "4c4d7291-00ca-9dbf-90ca-e51edf881d31",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"1011\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 1011",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 1011/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "61a7a18b-a6d5-9396-b7d6-b993eb06c995",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"0101\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 0101",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 0101/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "f206dc14-d9ee-ef93-860b-7acf7b09bd60",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"1101\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 11011",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 11011/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"name\":\"Parent Condition\",\"type\":\"AND\",\"singleconditions\":[{\"name\":\"Condition 1\",\"type\":\"SIMPLE\",\"left-side-type\":\"attribute\",\"left-side-datatype\":\"Checkbox\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-name\":\"Adult Filter\",\"op\":\"=\",\"right-side-type\":\"value\",\"right-side\":\"false\"},{\"name\":\"Condition 1\",\"type\":\"SIMPLE\",\"left-side-type\":\"attribute\",\"left-side-datatype\":\"Checkbox\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-name\":\"Caller Id\",\"op\":\"=\",\"right-side-type\":\"value\",\"right-side\":\"false\"},{\"name\":\"Condition 1\",\"type\":\"SIMPLE\",\"left-side-type\":\"attribute\",\"left-side-datatype\":\"Checkbox\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-name\":\"Call Waiting\",\"op\":\"=\",\"right-side-type\":\"value\",\"right-side\":\"true\"},{\"name\":\"Condition 1\",\"type\":\"SIMPLE\",\"left-side-type\":\"attribute\",\"left-side-datatype\":\"Checkbox\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-name\":\"Voice Mail\",\"op\":\"=\",\"right-side-type\":\"value\",\"right-side\":\"true\"}]}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "d3eb3dd0-dc63-08ac-df6f-7daaba4ff3ca",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"0011\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 0011",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 0011/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"name\":\"Parent Condition\",\"type\":\"AND\",\"singleconditions\":[{\"name\":\"Condition 1\",\"type\":\"SIMPLE\",\"left-side-type\":\"attribute\",\"left-side-datatype\":\"Checkbox\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-name\":\"Caller Id\",\"op\":\"=\",\"right-side-type\":\"value\",\"right-side\":\"false\"},{\"name\":\"Condition 1\",\"type\":\"SIMPLE\",\"left-side-type\":\"attribute\",\"left-side-datatype\":\"Checkbox\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-name\":\"Voice Mail\",\"op\":\"=\",\"right-side-type\":\"value\",\"right-side\":\"false\"},{\"name\":\"Condition 1\",\"type\":\"SIMPLE\",\"left-side-type\":\"attribute\",\"left-side-datatype\":\"Checkbox\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-name\":\"Adult Filter\",\"op\":\"=\",\"right-side-type\":\"value\",\"right-side\":\"true\"},{\"name\":\"Condition 1\",\"type\":\"SIMPLE\",\"left-side-type\":\"attribute\",\"left-side-datatype\":\"Checkbox\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-name\":\"Call Waiting\",\"op\":\"=\",\"right-side-type\":\"value\",\"right-side\":\"true\"}]}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "aae1ab0a-654d-95eb-befc-8eb93dcad5a6",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"1010\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 1010",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 1010/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "4b558996-c8ff-22a3-5b93-458cc019484d",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"0100\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 0100",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 0100/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "af013f90-7205-02de-e84e-1667c2fe782a",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"0000\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 0000",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 0000/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "67e4ec8d-c964-5388-e0b1-4b27f3c5fcdb",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"0001\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 0001",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 0001/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "fc02cc01-2aae-df79-ad7b-93e9d3565666",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"0010\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 0010",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 0010/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "c4958bbd-fc3c-8368-9312-7f300b5d12a9",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"0110\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 0110",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 0110/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "5c716b1e-7698-63aa-66e6-de9dd40b9314",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"1100\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 1100",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 1100/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "8ee22ffc-f737-f01f-9c4e-fe92da4ea678",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"1000\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 1000",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 1000/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "4fa02bba-8f1f-eb90-0072-8cc8c38d3f86",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"1001\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 1001",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 1001/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"false\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "13283291-a4af-583d-38d9-74d0153fb412",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"1110\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 1110",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 1110/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "{\"singleconditions\":[{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Adult Filter\",\"left-side\":\"VPL_ATTR_ADULT_FILTER\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Caller Id\",\"left-side\":\"VPL_ATTR_CALLER_ID\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Call Waiting\",\"left-side\":\"VPL_ATTR_CALL_WAITING\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"},{\"right-side\":\"true\",\"right-side-type\":\"value\",\"op\":\"=\",\"left-side-name\":\"Voice Mail\",\"left-side\":\"VPL_ATTR_VOICE_MAIL\",\"left-side-datatype\":\"Checkbox\",\"left-side-type\":\"attribute\",\"type\":\"SIMPLE\",\"name\":\"Condition 1\"}],\"type\":\"AND\",\"name\":\"Parent Condition\"}",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "8106ddfe-852c-5253-2474-e75d5b6a2071",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"1111\",\"mapping_type\":\"static\",\"destination_attr_name\":\"DC VAS Services\",\"destination_attr_code\":\"DC_ATT_VAS_SERV_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e8224b96-0162-715e-1fae-0734d92728ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e8224b96-0162-715e-1fae-0734d92728ed",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Mobile Services to B2B Mobile Billing CFS 1111",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Mobile Services to B2B Mobile Billing CFS 1111/Product2/e8224b96-0162-715e-1fae-0734d92728ed"
+    }
+]

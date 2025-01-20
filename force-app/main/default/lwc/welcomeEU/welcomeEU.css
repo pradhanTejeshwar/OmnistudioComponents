@@ -1,0 +1,117 @@
+/* .top-card-container{   
+    width: 1236px;
+    height: 103px;
+    top: 101px;
+    left: 22px;
+    border-radius: 4px;
+    border: 1px solid rgba(192, 190, 190, 1);
+} */
+
+/* .top-card{
+    width: 1236px;
+height: 103px;
+top: 101px;
+left: 22px;
+border-radius: 4px;
+background: rgba(238, 244, 255, 1);
+    padding-top: 15px;
+    padding-left: 20px;
+    display: inline-grid;
+} */
+/* .heading-card{
+    width: 194px;
+    height: 29.28px;
+    top: 117px;
+    left: 41px;
+    font-family: Segoe UI;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0px;
+text-align: left;
+color: rgba(24, 24, 24, 1);
+display: contents;
+    position: relative;
+    
+} */
+
+/* .subheading-card{
+    width: 871px;
+    height: 19px;
+    top: 156px;
+    left: 41px;
+    
+font-family: SF Pro Display;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(1, 32, 60, 0.8); */
+/* 
+
+    color: #706E6B;
+font-family: "Arial, Helvetica, sans-serif;";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 181.534%;
+letter-spacing: -0.55px; */
+/* } */
+
+/* .most-recent-changes-card{
+    color: #953FA0;
+font-family: "Arial, Helvetica, sans-serif;";
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 181.534%;
+letter-spacing: -0.55px;
+text-decoration-line: underline;
+} */
+
+.quickTasks{
+    /* width: 136px;
+height: 20px;
+top: 156px;
+left: 912px;
+font-family: Segoe UI;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0px; */
+text-align: left;
+color: rgba(11, 92, 171, 1);
+
+}
+
+/* .sparklesicon{
+    width: 22.2px;
+height: 22.14px;
+top: 0.94px;
+left: 0.88px;
+
+} */
+
+/* .icon-container{
+    width: 24px;
+height: 24px;
+top: 120px;
+left: 41px;
+padding: 0.94px 0.92px 0.92px 0.88px;
+fill: rgba(1, 118, 211, 1);
+
+} */
+
+.sparklesicon {
+    --sds-c-icon-color-foreground-default:rgba(1, 118, 211, 1);
+}
+
+/* .bold{
+    font-weight: bold;
+} */
+
+.welcome-card.THIS {
+    background: rgba(238, 244, 255, 1);
+
+}

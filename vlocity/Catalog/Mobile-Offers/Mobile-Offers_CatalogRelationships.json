@@ -1,0 +1,65 @@
+[
+    {
+        "%vlocity_namespace%__ChildCatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "2c6e5ebd-236d-36f6-2888-61a0afb93a2d",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Catalog__c/2c6e5ebd-236d-36f6-2888-61a0afb93a2d",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__ChildCatalogId__r.%vlocity_namespace%__GlobalKey__c": "2c6e5ebd-236d-36f6-2888-61a0afb93a2d",
+        "%vlocity_namespace%__ParentCatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "a0026b7e-f235-34ae-aa15-8917715590c1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/a0026b7e-f235-34ae-aa15-8917715590c1",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__ParentCatalogId__r.%vlocity_namespace%__GlobalKey__c": "a0026b7e-f235-34ae-aa15-8917715590c1",
+        "%vlocity_namespace%__SequenceNumber__c": "",
+        "Name": "Mobile Offers to Handsets",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogRelationship__c/Generated-1696735057"
+    },
+    {
+        "%vlocity_namespace%__ChildCatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Catalog__c/5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__ChildCatalogId__r.%vlocity_namespace%__GlobalKey__c": "5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+        "%vlocity_namespace%__ParentCatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "a0026b7e-f235-34ae-aa15-8917715590c1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/a0026b7e-f235-34ae-aa15-8917715590c1",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__ParentCatalogId__r.%vlocity_namespace%__GlobalKey__c": "a0026b7e-f235-34ae-aa15-8917715590c1",
+        "%vlocity_namespace%__SequenceNumber__c": 30,
+        "Name": "Mobile to Plan with Device",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogRelationship__c/Generated1208902228"
+    },
+    {
+        "%vlocity_namespace%__ChildCatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "b91ffeef-3c0e-359f-91a0-f699d5ea3b5f",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Catalog__c/b91ffeef-3c0e-359f-91a0-f699d5ea3b5f",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__ChildCatalogId__r.%vlocity_namespace%__GlobalKey__c": "b91ffeef-3c0e-359f-91a0-f699d5ea3b5f",
+        "%vlocity_namespace%__ParentCatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "a0026b7e-f235-34ae-aa15-8917715590c1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/a0026b7e-f235-34ae-aa15-8917715590c1",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__ParentCatalogId__r.%vlocity_namespace%__GlobalKey__c": "a0026b7e-f235-34ae-aa15-8917715590c1",
+        "%vlocity_namespace%__SequenceNumber__c": 10,
+        "Name": "Mobile Offers to Plans",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogRelationship__c/Generated-2081490422"
+    }
+]

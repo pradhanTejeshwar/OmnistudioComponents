@@ -1,0 +1,18 @@
+{
+    "%vlocity_namespace%__IsDefault__c": true,
+    "%vlocity_namespace%__IsOpportunityDefault__c": false,
+    "%vlocity_namespace%__IsOrderDefault__c": false,
+    "%vlocity_namespace%__isQuoteDefault__c": false,
+    "CostBookId": "",
+    "Description": "",
+    "External_ID__c": "",
+    "IsActive": true,
+    "IsArchived": false,
+    "IsStandard": true,
+    "Name": "Standard Price Book",
+    "ValidFrom": "",
+    "ValidTo": "",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "Pricebook2",
+    "VlocityRecordSourceKey": "Pricebook2/Standard Price Book"
+}

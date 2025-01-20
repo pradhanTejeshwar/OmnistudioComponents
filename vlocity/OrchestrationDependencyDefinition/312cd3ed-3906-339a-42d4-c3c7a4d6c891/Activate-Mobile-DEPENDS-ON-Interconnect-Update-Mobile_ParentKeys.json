@@ -1,0 +1,5 @@
+[
+    "OrchestrationItemDefinition/Activate - Mobile_Activation - Mobile",
+    "OrchestrationItemDefinition/Interconnect Update - Mobile_Interconnect - Mobile",
+    "OrchestrationPlanDefinition/Interconnect - Mobile"
+]

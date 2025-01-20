@@ -1,0 +1,12 @@
+{
+    "%vlocity_namespace%__DestinationFieldName__c": "isactive",
+    "%vlocity_namespace%__DestinationSObjectType__c": "CpqCartDocumentAppliedPromo",
+    "%vlocity_namespace%__SourceFieldName__c": "%vlocity_namespace%__IsActive__c",
+    "%vlocity_namespace%__SourceFieldSObjectType__c": "",
+    "%vlocity_namespace%__SourceFieldType__c": "string",
+    "%vlocity_namespace%__SourceSObjectType__c": "%vlocity_namespace%__QuoteAppliedPromotion__c",
+    "Name": "AppliedPromo>QuoteAppliedPromotion6",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__CustomFieldMap__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__CustomFieldMap__c/AppliedPromo>QuoteAppliedPromotion6"
+}

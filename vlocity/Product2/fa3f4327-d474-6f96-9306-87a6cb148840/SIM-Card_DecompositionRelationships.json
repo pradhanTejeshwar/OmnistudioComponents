@@ -1,0 +1,95 @@
+[
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "5801676d-0a5c-5b3c-2de4-6369a38f6962",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/5801676d-0a5c-5b3c-2de4-6369a38f6962",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "4d4e9802-5a05-cfbf-2140-a542e9ba6bd9",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_type\":\"Attribute\",\"source_attr_name\":\"SIM Type\",\"source_attr_code\":\"VPL_ATTR_SIM_TYPE\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC SIM Type\",\"destination_attr_code\":\"DC_ATT_SIM_001\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "fa3f4327-d474-6f96-9306-87a6cb148840",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/fa3f4327-d474-6f96-9306-87a6cb148840",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "fa3f4327-d474-6f96-9306-87a6cb148840",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B SIM Card to B2B Mobile Shipping CFS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B SIM Card to B2B Mobile Shipping CFS/Product2/fa3f4327-d474-6f96-9306-87a6cb148840"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "bc42819d-8ab6-ae74-0e8a-b43d8600eb15",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_attr_name\":\"IMSI\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC IMSI\",\"destination_attr_code\":\"DC_ATT_IMSI_001\",\"source_attr_code\":\"VPL_ATTR_IMSI\",\"source_type\":\"Attribute\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "fa3f4327-d474-6f96-9306-87a6cb148840",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/fa3f4327-d474-6f96-9306-87a6cb148840",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "fa3f4327-d474-6f96-9306-87a6cb148840",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B SIM Card to B2B Mobile Billing CFS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B SIM Card to B2B Mobile Billing CFS/Product2/fa3f4327-d474-6f96-9306-87a6cb148840"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "860397d3-ff0c-9ee5-9633-ed8adef101b4",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/860397d3-ff0c-9ee5-9633-ed8adef101b4",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "ca1dd546-c2c9-281f-d003-13cbfe9cd699",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_attr_name\":\"SIM Type\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC SIM Type\",\"destination_attr_code\":\"DC_ATT_SIM_001\",\"source_attr_code\":\"VPL_ATTR_SIM_TYPE\",\"source_type\":\"Attribute\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "fa3f4327-d474-6f96-9306-87a6cb148840",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/fa3f4327-d474-6f96-9306-87a6cb148840",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "fa3f4327-d474-6f96-9306-87a6cb148840",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B SIM Card to B2B Mobile Inventory RFS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B SIM Card to B2B Mobile Inventory RFS/Product2/fa3f4327-d474-6f96-9306-87a6cb148840"
+    }
+]

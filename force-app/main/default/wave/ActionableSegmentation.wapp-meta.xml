@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assetIcon>/analytics/wave/web/proto/images/app/icons/2.png</assetIcon>
+    <folder>ActionableSegmentation</folder>
+    <masterLabel>Actionable Segmentation</masterLabel>
+    <shares>
+        <accessLevel>EditAllContents</accessLevel>
+        <sharedTo>AllInternalUsers</sharedTo>
+        <sharedToType>Organization</sharedToType>
+    </shares>
+    <templateOrigin>sfdc_internal__ActionableSegmentation</templateOrigin>
+    <templateVersion>1.0</templateVersion>
+</WaveApplication>

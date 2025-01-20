@@ -1,0 +1,95 @@
+[
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "323290ee-bd42-2e3f-265f-c51576b99367",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/323290ee-bd42-2e3f-265f-c51576b99367",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "2f14be8f-467e-eda4-c708-b5ad6e693124",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_type\":\"Attribute\",\"source_attr_name\":\"MMS\",\"source_attr_code\":\"VPL_ATTR_MMS\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC MMS\",\"destination_attr_code\":\"DC_ATT_MMS_001\"},{\"source_type\":\"Attribute\",\"source_attr_name\":\"SMS\",\"source_attr_code\":\"VPL_ATTR_SMS\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC SMS\",\"destination_attr_code\":\"DC_ATT_SMS_001\"},{\"source_type\":\"Attribute\",\"source_attr_name\":\"Voice\",\"source_attr_code\":\"VPL_ATTR_VOICE\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC Voice\",\"destination_attr_code\":\"DC_ATT_VOICE_001\"},{\"source_attr_name\":\"Data\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC Data\",\"destination_attr_code\":\"DC_ATT_DATA_001\",\"source_attr_code\":\"VPL_ATTR_DATA\",\"source_type\":\"Attribute\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "4bef6e3d-3027-6839-743b-6e41cca45cd6",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/4bef6e3d-3027-6839-743b-6e41cca45cd6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "4bef6e3d-3027-6839-743b-6e41cca45cd6",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Postpaid  Plan XL to B2B Mobile Provisioning RFS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Postpaid  Plan XL to B2B Mobile Provisioning RFS/Product2/4bef6e3d-3027-6839-743b-6e41cca45cd6"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "aa187c3a-a3fc-4ea0-854a-8c77373728a3",
+        "%vlocity_namespace%__MappingsData__c": "[{\"transform_mappings\":[{\"destination_value\":\"Extra Large Bundle\",\"source_value\":\"Postpaid Plan XL\"},{\"source_value\":\"Postpaid Plan L\",\"destination_value\":\"Large Bundle\"},{\"source_value\":\"Postpaid Plan M\",\"destination_value\":\"Medium Bundle\"},{\"destination_value\":\"Small Bundle\",\"source_value\":\"Postpaid Plan S\"}],\"mapping_type\":\"list\",\"destination_attr_name\":\"DC Subscription Type\",\"destination_attr_code\":\"DC_ATT_SUB_TYPE\",\"source_field_name\":\"Product2.Name\",\"source_type\":\"Field\"},{\"source_attr_name\":\"Data\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC Data\",\"destination_attr_code\":\"DC_ATT_DATA_001\",\"source_attr_code\":\"VPL_ATTR_DATA\",\"source_type\":\"Attribute\"},{\"source_attr_name\":\"MMS\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC MMS\",\"destination_attr_code\":\"DC_ATT_MMS_001\",\"source_attr_code\":\"VPL_ATTR_MMS\",\"source_type\":\"Attribute\"},{\"source_attr_name\":\"SMS\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC SMS\",\"destination_attr_code\":\"DC_ATT_SMS_001\",\"source_attr_code\":\"VPL_ATTR_SMS\",\"source_type\":\"Attribute\"},{\"source_attr_name\":\"Voice\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC Voice\",\"destination_attr_code\":\"DC_ATT_VOICE_001\",\"source_attr_code\":\"VPL_ATTR_VOICE\",\"source_type\":\"Attribute\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "4bef6e3d-3027-6839-743b-6e41cca45cd6",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/4bef6e3d-3027-6839-743b-6e41cca45cd6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "4bef6e3d-3027-6839-743b-6e41cca45cd6",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Postpaid  Plan XL to B2B Mobile Billing CFS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Postpaid  Plan XL to B2B Mobile Billing CFS/Product2/4bef6e3d-3027-6839-743b-6e41cca45cd6"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "d261c7de-debc-48df-a6c4-f95f329312cf",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/d261c7de-debc-48df-a6c4-f95f329312cf",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "52f8c3b6-9ae8-18d3-24d7-738a8aedba28",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_type\":\"Attribute\",\"source_attr_name\":\"MMS\",\"source_attr_code\":\"VPL_ATTR_MMS\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC MMS\",\"destination_attr_code\":\"DC_ATT_MMS_001\"},{\"source_type\":\"Attribute\",\"source_attr_name\":\"SMS\",\"source_attr_code\":\"VPL_ATTR_SMS\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC SMS\",\"destination_attr_code\":\"DC_ATT_SMS_001\"},{\"source_type\":\"Attribute\",\"source_attr_name\":\"Voice\",\"source_attr_code\":\"VPL_ATTR_VOICE\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC Voice\",\"destination_attr_code\":\"DC_ATT_VOICE_001\"},{\"source_attr_name\":\"Data\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC Data\",\"destination_attr_code\":\"DC_ATT_DATA_001\",\"source_attr_code\":\"VPL_ATTR_DATA\",\"source_type\":\"Attribute\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "4bef6e3d-3027-6839-743b-6e41cca45cd6",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/4bef6e3d-3027-6839-743b-6e41cca45cd6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "4bef6e3d-3027-6839-743b-6e41cca45cd6",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B Postpaid  Plan XL to B2B Mobile Activation RFS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B Postpaid  Plan XL to B2B Mobile Activation RFS/Product2/4bef6e3d-3027-6839-743b-6e41cca45cd6"
+    }
+]
