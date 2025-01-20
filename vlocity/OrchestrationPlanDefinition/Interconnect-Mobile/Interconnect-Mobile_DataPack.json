@@ -1,0 +1,11 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "c84e406d-2473-0fb9-84dd-0a83a125c7d8",
+    "%vlocity_namespace%__IsSchedulingEnabled__c": false,
+    "%vlocity_namespace%__SchedulingExpirationIntervalSeconds__c": "",
+    "%vlocity_namespace%__Scope__c": "Global",
+    "%vlocity_namespace%__ShowOrder__c": "",
+    "Name": "Interconnect - Mobile",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationPlanDefinition__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationPlanDefinition__c/Interconnect - Mobile"
+}

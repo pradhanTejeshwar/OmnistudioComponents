@@ -1,0 +1,33 @@
+[
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/7ddb15d5-57de-d8a8-ba29-5cd34ca621f6",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "eb7a4d6f-0737-51f1-54f9-3a0d65446b82",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_attr_name\":\"Tariff\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC International Calls Tariff\",\"destination_attr_code\":\"DC_ATT_TAR_INT_001\",\"source_attr_code\":\"VPL_ATTR_TARIFF\",\"source_type\":\"Attribute\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "df4000fa-7b22-34f7-c32c-acad28ac7c3e",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/df4000fa-7b22-34f7-c32c-acad28ac7c3e",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "df4000fa-7b22-34f7-c32c-acad28ac7c3e",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B International Calls to B2B Mobile Billing CFS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B International Calls to B2B Mobile Billing CFS/Product2/df4000fa-7b22-34f7-c32c-acad28ac7c3e"
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CreateOrder</fullName>
+    <availability>online</availability>
+    <description>Create multiple orders based on the member type</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <linkType>url</linkType>
+    <masterLabel>Create Order</masterLabel>
+    <openType>replace</openType>
+    <protected>false</protected>
+    <url>/lightning/page/omnistudio/omniscript?omniscript__type=CPQ&amp;omniscript__subType=BulkQuoteToOrder&amp;omniscript__language=Multi-Language&amp;omniscript__theme=lightning&amp;omniscript__ContextId={!Quote.Id}&amp;omniscript__tabIcon=custom:custom18&amp;omniscript__tabLabel=CPQ_BulkQuoteToOrder</url>
+</WebLink>

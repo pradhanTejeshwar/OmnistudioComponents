@@ -1,0 +1,83 @@
+[
+    {
+        "%vlocity_namespace%__CatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__CatalogId__r.%vlocity_namespace%__GlobalKey__c": "5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+        "%vlocity_namespace%__EffectiveDate__c": "2020-12-17",
+        "%vlocity_namespace%__EndDate__c": "",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ItemType__c": "Product",
+        "%vlocity_namespace%__Product2Id__c": {
+            "%vlocity_namespace%__GlobalKey__c": "35bd8a24-3774-d874-a30c-7dab1c348b0c",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/35bd8a24-3774-d874-a30c-7dab1c348b0c",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__Product2Id__r.%vlocity_namespace%__GlobalKey__c": "35bd8a24-3774-d874-a30c-7dab1c348b0c",
+        "%vlocity_namespace%__ProductGroupKey__c": "67341bca-1cb5-ab06-f0d3-87dbc741c882",
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__SequenceNumber__c": 10,
+        "Name": "Business Postpaid PRO Plan + Device",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogProductRelationship__c/Generated-1401671910"
+    },
+    {
+        "%vlocity_namespace%__CatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__CatalogId__r.%vlocity_namespace%__GlobalKey__c": "5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+        "%vlocity_namespace%__EffectiveDate__c": "2020-12-17",
+        "%vlocity_namespace%__EndDate__c": "",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ItemType__c": "Product",
+        "%vlocity_namespace%__Product2Id__c": {
+            "%vlocity_namespace%__GlobalKey__c": "4a1175af-e449-6bf7-2b59-a44eb4d51c12",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/4a1175af-e449-6bf7-2b59-a44eb4d51c12",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__Product2Id__r.%vlocity_namespace%__GlobalKey__c": "4a1175af-e449-6bf7-2b59-a44eb4d51c12",
+        "%vlocity_namespace%__ProductGroupKey__c": "91b7054b-12a9-7abc-36ae-d3833d99d22c",
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__SequenceNumber__c": 20,
+        "Name": "Business Postpaid Enhanced Plan + Device",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogProductRelationship__c/Generated-236252990"
+    },
+    {
+        "%vlocity_namespace%__CatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__CatalogId__r.%vlocity_namespace%__GlobalKey__c": "5bdde7e0-abfe-c832-6fc4-78a49ef6ead5",
+        "%vlocity_namespace%__EffectiveDate__c": "2020-12-17",
+        "%vlocity_namespace%__EndDate__c": "",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ItemType__c": "Product",
+        "%vlocity_namespace%__Product2Id__c": {
+            "%vlocity_namespace%__GlobalKey__c": "a8cba574-c075-e4ea-1f97-48ac49e4c574",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/a8cba574-c075-e4ea-1f97-48ac49e4c574",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__Product2Id__r.%vlocity_namespace%__GlobalKey__c": "a8cba574-c075-e4ea-1f97-48ac49e4c574",
+        "%vlocity_namespace%__ProductGroupKey__c": "0168fd63-d82b-bac7-5124-53ebfa5f0667",
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__SequenceNumber__c": 5,
+        "Name": "Business Postpaid PRO+ Plan + Device",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogProductRelationship__c/Generated-1324671337"
+    }
+]

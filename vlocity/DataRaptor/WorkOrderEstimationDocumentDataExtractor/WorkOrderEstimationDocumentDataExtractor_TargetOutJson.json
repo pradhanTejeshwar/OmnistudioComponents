@@ -1,0 +1,16 @@
+{
+    "QuoteCreatedBy": "Text",
+    "QuoteCreatedByEmail": "Text",
+    "QuoteCreatedDate": "Text",
+    "QuoteLineItem": {
+        "Id": "Text",
+        "UnitPrice": "Text",
+        "productName": "Text",
+        "quantity": "Text",
+        "totalPrice": "Text"
+    },
+    "QuoteName": "Text",
+    "QuoteNumber": "Text",
+    "QuoteTotal": "Text",
+    "accountName": "Text"
+}

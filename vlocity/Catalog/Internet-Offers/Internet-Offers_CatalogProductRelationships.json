@@ -1,0 +1,83 @@
+[
+    {
+        "%vlocity_namespace%__CatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__CatalogId__r.%vlocity_namespace%__GlobalKey__c": "24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+        "%vlocity_namespace%__EffectiveDate__c": "2020-10-16",
+        "%vlocity_namespace%__EndDate__c": "",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ItemType__c": "Product",
+        "%vlocity_namespace%__Product2Id__c": {
+            "%vlocity_namespace%__GlobalKey__c": "0603228b-79c7-c71b-68d8-92cbbcec6ed0",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/0603228b-79c7-c71b-68d8-92cbbcec6ed0",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__Product2Id__r.%vlocity_namespace%__GlobalKey__c": "0603228b-79c7-c71b-68d8-92cbbcec6ed0",
+        "%vlocity_namespace%__ProductGroupKey__c": "de535271-b27c-4581-3387-4b6ce78960b6",
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__SequenceNumber__c": "",
+        "Name": "Business Internet Essential",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogProductRelationship__c/Generated1445789896"
+    },
+    {
+        "%vlocity_namespace%__CatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__CatalogId__r.%vlocity_namespace%__GlobalKey__c": "24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+        "%vlocity_namespace%__EffectiveDate__c": "2020-10-16",
+        "%vlocity_namespace%__EndDate__c": "",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ItemType__c": "Product",
+        "%vlocity_namespace%__Product2Id__c": {
+            "%vlocity_namespace%__GlobalKey__c": "afe6ec4e-fbeb-422a-3b8b-8ac8c1f6bd2b",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/afe6ec4e-fbeb-422a-3b8b-8ac8c1f6bd2b",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__Product2Id__r.%vlocity_namespace%__GlobalKey__c": "afe6ec4e-fbeb-422a-3b8b-8ac8c1f6bd2b",
+        "%vlocity_namespace%__ProductGroupKey__c": "2d57317f-728c-58ad-2af6-98d0d560a256",
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__SequenceNumber__c": "",
+        "Name": "Business Internet Enhanced",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogProductRelationship__c/Generated1198948581"
+    },
+    {
+        "%vlocity_namespace%__CatalogId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Catalog__c/24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Catalog__c"
+        },
+        "%vlocity_namespace%__CatalogId__r.%vlocity_namespace%__GlobalKey__c": "24d2ea78-78e6-8ca2-56d0-a0bc1e9c135d",
+        "%vlocity_namespace%__EffectiveDate__c": "2020-10-16",
+        "%vlocity_namespace%__EndDate__c": "",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ItemType__c": "Product",
+        "%vlocity_namespace%__Product2Id__c": {
+            "%vlocity_namespace%__GlobalKey__c": "bb0eb71a-f44c-bf6f-f03e-6b2726f1fe5c",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/bb0eb71a-f44c-bf6f-f03e-6b2726f1fe5c",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__Product2Id__r.%vlocity_namespace%__GlobalKey__c": "bb0eb71a-f44c-bf6f-f03e-6b2726f1fe5c",
+        "%vlocity_namespace%__ProductGroupKey__c": "23aeb13e-c2dc-a8b9-a37d-2c0f03b4b0d8",
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__SequenceNumber__c": "",
+        "Name": "Business Internet Pro",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__CatalogProductRelationship__c/Generated797981115"
+    }
+]

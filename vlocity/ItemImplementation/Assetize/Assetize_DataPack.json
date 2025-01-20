@@ -1,0 +1,9 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "c2faece4-64ce-549b-c89b-d1742b4f6bee",
+    "%vlocity_namespace%__Implementation__c": "XOMAutoTaskAssetizer",
+    "%vlocity_namespace%__ThorImplementation__c": "http://product-autotasks/assetize",
+    "Name": "Assetize",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__ItemImplementation__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__ItemImplementation__c/Assetize"
+}

@@ -1,0 +1,11 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "449e6949-fe3f-c9f9-1e6b-e64ee377818e",
+    "%vlocity_namespace%__IsSchedulingEnabled__c": false,
+    "%vlocity_namespace%__SchedulingExpirationIntervalSeconds__c": "",
+    "%vlocity_namespace%__Scope__c": "Global",
+    "%vlocity_namespace%__ShowOrder__c": "",
+    "Name": "Activation - Mobile",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationPlanDefinition__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationPlanDefinition__c/Activation - Mobile"
+}

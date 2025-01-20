@@ -1,0 +1,388 @@
+{
+    "%vlocity_namespace%__ApprovedBy__c": "",
+    "%vlocity_namespace%__ApprovedOn__c": "",
+    "%vlocity_namespace%__AttributeAssignment__c": "UNI_AttributeAssignments.json",
+    "%vlocity_namespace%__AttributeDefaultValues__c": {
+        "VEPC_ATTR_UNI_DEPLOYMENT_OPTION": null,
+        "VEPC_ATTR_UNI_HANDOVER_DETAILS": null,
+        "VEPC_ATTR_UNI_MULTIPLEXING_TYPE": null,
+        "VEPC_ATTR_UNI_PORT_TYPE": null
+    },
+    "%vlocity_namespace%__AttributeMetadata__c": {
+        "messages": [
+        ],
+        "records": [
+            {
+                "Code__c": "VEPC_ATTRIBUTE_CATEGORY_UNI_DETAILS",
+                "Name": "UNI Details",
+                "displaySequence": 7090,
+                "id": "a0YWs000000eB05MAE",
+                "messages": [
+                ],
+                "productAttributes": {
+                    "messages": [
+                    ],
+                    "records": [
+                        {
+                            "attributeId": "a0ZWs000000OE5ZMAW",
+                            "cloneable": true,
+                            "code": "VEPC_ATTR_UNI_MULTIPLEXING_TYPE",
+                            "dataType": "text",
+                            "description": "UNI multiplexing type",
+                            "disabled": false,
+                            "displaySequence": 100,
+                            "filterable": false,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "dropdown",
+                            "isNotTranslatable": false,
+                            "label": "UNI Multiplexing Type",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": [
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 20,
+                                    "id": "5123da13-c0ac-eef8-2b7a-a0e1a3dd745e",
+                                    "label": "VLAN-Based",
+                                    "name": "5123da13-c0ac-eef8-2b7a-a0e1a3dd745e",
+                                    "readonly": false,
+                                    "value": "VLAN-Based"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 10,
+                                    "id": "66e93327-ecf4-f227-9629-183a32417118",
+                                    "label": "Port-Based",
+                                    "name": "66e93327-ecf4-f227-9629-183a32417118",
+                                    "readonly": false,
+                                    "value": "Port-Based"
+                                }
+                            ]
+                        },
+                        {
+                            "attributeId": "a0ZWs000000OE5aMAG",
+                            "cloneable": true,
+                            "code": "VEPC_ATTR_UNI_PORT_TYPE",
+                            "dataType": "text",
+                            "description": "UNI-N port type",
+                            "disabled": false,
+                            "displaySequence": 110,
+                            "filterable": false,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "dropdown",
+                            "isNotTranslatable": false,
+                            "label": "UNI Port Type",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": [
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 10,
+                                    "id": "13fb2600-02c3-190b-eb75-938347de1f4a",
+                                    "label": "10BASE-T",
+                                    "name": "13fb2600-02c3-190b-eb75-938347de1f4a",
+                                    "readonly": false,
+                                    "value": "10BASE-T"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 40,
+                                    "id": "1de34a32-031f-096a-f083-1080d542292f",
+                                    "label": "1000BASE-T",
+                                    "name": "1de34a32-031f-096a-f083-1080d542292f",
+                                    "readonly": false,
+                                    "value": "1000BASE-T"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 50,
+                                    "id": "9b7a617f-8473-69e2-fe46-d4eb6c92c8d9",
+                                    "label": "1000BASE-SX",
+                                    "name": "9b7a617f-8473-69e2-fe46-d4eb6c92c8d9",
+                                    "readonly": false,
+                                    "value": "1000BASE-SX"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 30,
+                                    "id": "d2a26d6a-0412-dd0b-6bc1-4eb7f612a0d3",
+                                    "label": "100BASE-FX",
+                                    "name": "d2a26d6a-0412-dd0b-6bc1-4eb7f612a0d3",
+                                    "readonly": false,
+                                    "value": "100BASE-FX"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 20,
+                                    "id": "ddb08256-b4a4-f385-fa7c-bd29748c1e76",
+                                    "label": "100BASE-T",
+                                    "name": "ddb08256-b4a4-f385-fa7c-bd29748c1e76",
+                                    "readonly": false,
+                                    "value": "100BASE-T"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 60,
+                                    "id": "f28bf75e-920f-1f53-d995-e7a984a793ee",
+                                    "label": "1000BASE-LX",
+                                    "name": "f28bf75e-920f-1f53-d995-e7a984a793ee",
+                                    "readonly": false,
+                                    "value": "1000BASE-LX"
+                                }
+                            ]
+                        },
+                        {
+                            "attributeId": "a0ZWs000000OE5XMAW",
+                            "cloneable": true,
+                            "code": "VEPC_ATTR_UNI_DEPLOYMENT_OPTION",
+                            "dataType": "text",
+                            "description": "Indicates either a new UNI-N port is required or an existing UNI-N port can be re-used",
+                            "disabled": false,
+                            "displaySequence": 120,
+                            "filterable": false,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "dropdown",
+                            "isNotTranslatable": false,
+                            "label": "UNI Deployment Option",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": [
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 10,
+                                    "id": "8c28d7cb-eb53-7c7d-39d1-060674ed586d",
+                                    "label": "New UNI",
+                                    "name": "8c28d7cb-eb53-7c7d-39d1-060674ed586d",
+                                    "readonly": false,
+                                    "value": "New UNI"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 20,
+                                    "id": "b9f49067-156a-ef08-973d-d2b4ec23ae45",
+                                    "label": "Reuse Existing UNI",
+                                    "name": "b9f49067-156a-ef08-973d-d2b4ec23ae45",
+                                    "readonly": false,
+                                    "value": "Reuse Existing UNI"
+                                }
+                            ]
+                        },
+                        {
+                            "attributeId": "a0ZWs000000OE5YMAW",
+                            "cloneable": true,
+                            "code": "VEPC_ATTR_UNI_HANDOVER_DETAILS",
+                            "dataType": "text",
+                            "description": "Additional details about the UNI handoff (e.g. 2 fibers, 2 patch panel ports, etc.)",
+                            "disabled": false,
+                            "displaySequence": 130,
+                            "filterable": false,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "text",
+                            "isNotTranslatable": false,
+                            "label": "UNI Handover Details",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": [
+                                {
+                                    "disabled": false,
+                                    "readonly": false
+                                }
+                            ]
+                        }
+                    ],
+                    "totalSize": 4
+                }
+            }
+        ],
+        "totalSize": 1
+    },
+    "%vlocity_namespace%__AttributeRules__c": "{}",
+    "%vlocity_namespace%__AttributesMarkupConfig__c": "",
+    "%vlocity_namespace%__CategoryData__c": [
+        {
+            "actions": {
+            },
+            "childCategories": [
+            ],
+            "displaySequence": -1,
+            "fields": {
+            },
+            "id": "a16GA00000BdHllYAF",
+            "messages": [
+            ],
+            "name": "VPN Offers",
+            "nameResult": {
+            },
+            "uiStates": {
+            }
+        }
+    ],
+    "%vlocity_namespace%__ChangeDetectorImplementation__c": "",
+    "%vlocity_namespace%__ClassId__c": "",
+    "%vlocity_namespace%__DefaultImageId__c": "",
+    "%vlocity_namespace%__EffectiveDate__c": "",
+    "%vlocity_namespace%__EndDate__c": "",
+    "%vlocity_namespace%__EndOfLifeDate__c": "",
+    "%vlocity_namespace%__FulfilmentStartDate__c": "",
+    "%vlocity_namespace%__GlobalGroupKey__c": "e759b445-61d3-8ec9-54a6-dbfa6c2e7a1c",
+    "%vlocity_namespace%__GlobalKey__c": "5a78e178-5ee6-ccdd-0856-c4362606434c",
+    "%vlocity_namespace%__HeaderData__c": "",
+    "%vlocity_namespace%__HelpText__c": "",
+    "%vlocity_namespace%__IsConfigurable__c": true,
+    "%vlocity_namespace%__IsCustomerSubscription__c": false,
+    "%vlocity_namespace%__IsLocationDependent__c": false,
+    "%vlocity_namespace%__IsNotAssetizable__c": false,
+    "%vlocity_namespace%__IsOrderable__c": true,
+    "%vlocity_namespace%__JeopardySafetyIntervalUnit__c": "Seconds",
+    "%vlocity_namespace%__JeopardySafetyInterval__c": "",
+    "%vlocity_namespace%__LifecycleStatus__c": "",
+    "%vlocity_namespace%__MainFeatureQuantityUom__c": "",
+    "%vlocity_namespace%__MainFeatureQuantity__c": "",
+    "%vlocity_namespace%__MainFeatureTermInDays__c": "",
+    "%vlocity_namespace%__Modification__c": "",
+    "%vlocity_namespace%__ObjectFieldAttribute__c": "UNI_ObjectFieldAttributes.json",
+    "%vlocity_namespace%__ObjectTypeId__c": {
+        "%vlocity_namespace%__GlobalKey__c": "df7440-77c9d3-ff98b6-dc721f-d5804f657",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/df7440-77c9d3-ff98b6-dc721f-d5804f657",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+    },
+    "%vlocity_namespace%__ObjectTypeName__c": "UNI Object Type",
+    "%vlocity_namespace%__ParentClassId__c": "",
+    "%vlocity_namespace%__PriceListEntry__c": "UNI_PriceListEntries.json",
+    "%vlocity_namespace%__ProductChildItem__c": "UNI_ProductChildItems.json",
+    "%vlocity_namespace%__ProductSpecId__c": "",
+    "%vlocity_namespace%__ProductTemplateProductId__c": "",
+    "%vlocity_namespace%__Scope__c": "Order Item",
+    "%vlocity_namespace%__SellingEndDate__c": "",
+    "%vlocity_namespace%__SellingStartDate__c": "",
+    "%vlocity_namespace%__SpecificationSubType__c": "",
+    "%vlocity_namespace%__SpecificationType__c": "Offer",
+    "%vlocity_namespace%__StandardPremium__c": "",
+    "%vlocity_namespace%__Status__c": "Active",
+    "%vlocity_namespace%__SubType__c": "",
+    "%vlocity_namespace%__TimeToLive__c": "",
+    "%vlocity_namespace%__TrackAsAgreement__c": false,
+    "%vlocity_namespace%__Type__c": "L2 VPN",
+    "%vlocity_namespace%__VendorAccountId__c": "",
+    "%vlocity_namespace%__VersionEndDateTime__c": "",
+    "%vlocity_namespace%__VersionLabel__c": "V1",
+    "%vlocity_namespace%__VersionStartDateTime__c": "",
+    "AvailabilityDate": "",
+    "BasedOnId": "",
+    "BusinessBrandId": "",
+    "CanUseQuantitySchedule": false,
+    "CanUseRevenueSchedule": false,
+    "ConfigureDuringSale": "",
+    "Description": "A UNI (simplifying) is a physical network interface (port) where customer equipment (e.g. customer LAN in a site) is connected. A CPE can host multiple UNIs (e.g. to terminate multiple EVCs, or to enable some protection schema)",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "",
+    "EndOfLifeDate": "",
+    "ExternalDataSourceId": "",
+    "ExternalId": "",
+    "External_ID__c": "",
+    "Family": "Networking",
+    "HarmonizedSystemCode": "",
+    "HelpText": "",
+    "IsActive": true,
+    "IsArchived": false,
+    "IsAssetizable": true,
+    "IsEnvrPrtcRegCompliant": false,
+    "IsSerialized": false,
+    "IsSoldOnlyWithOtherProds": false,
+    "MakeName": "",
+    "ManufacturerName": "",
+    "ManufacturerPartNumber": "",
+    "ModelName": "",
+    "ModelYear": "",
+    "Name": "UNI",
+    "NumberOfQuantityInstallments": "",
+    "NumberOfRevenueInstallments": "",
+    "PricebookEntry": "UNI_PricebookEntries.json",
+    "ProductCategoryCode": "",
+    "ProductCode": "VEPC_OFFERING_UNI",
+    "ProductLineCode": "",
+    "QuantityInstallmentPeriod": "",
+    "QuantityScheduleType": "",
+    "QuantityUnitOfMeasure": "",
+    "RecordTypeId": {
+        "DeveloperName": "Product",
+        "SobjectType": "Product2",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "RecordType/Product2/Product",
+        "VlocityRecordSObjectType": "RecordType"
+    },
+    "RevenueInstallmentPeriod": "",
+    "RevenueScheduleType": "",
+    "StandardPricebookEntry": [
+        {
+            "%vlocity_namespace%__FloorPrice__c": "",
+            "%vlocity_namespace%__OverageCharge__c": "",
+            "%vlocity_namespace%__OverageUOM__c": "",
+            "%vlocity_namespace%__RecurringPrice__c": 0,
+            "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+            "IsActive": true,
+            "IsArchived": false,
+            "IsDerived": false,
+            "Name": "UNI",
+            "Pricebook2.Name": "Standard Price Book",
+            "Pricebook2Id": {
+                "Name": "Standard Price Book",
+                "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+                "VlocityLookupRecordSourceKey": "Pricebook2/Standard Price Book",
+                "VlocityRecordSObjectType": "Pricebook2"
+            },
+            "Product2.%vlocity_namespace%__GlobalKey__c": "5a78e178-5ee6-ccdd-0856-c4362606434c",
+            "Product2Id": {
+                "%vlocity_namespace%__GlobalKey__c": "5a78e178-5ee6-ccdd-0856-c4362606434c",
+                "VlocityDataPackType": "VlocityMatchingKeyObject",
+                "VlocityMatchingRecordSourceKey": "Product2/5a78e178-5ee6-ccdd-0856-c4362606434c",
+                "VlocityRecordSObjectType": "Product2"
+            },
+            "ProductCode": "VEPC_OFFERING_UNI",
+            "UnitPrice": 0,
+            "UseStandardPrice": false,
+            "VlocityDataPackType": "SObject",
+            "VlocityRecordSObjectType": "PricebookEntry",
+            "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/Standard Price Book/Product2/5a78e178-5ee6-ccdd-0856-c4362606434c"
+        }
+    ],
+    "StockKeepingUnit": "",
+    "TaxPolicyId": "",
+    "TransferRecordMode": "",
+    "UniversalProductCode": "",
+    "VersionName": "",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "Product2",
+    "VlocityRecordSourceKey": "Product2/5a78e178-5ee6-ccdd-0856-c4362606434c"
+}

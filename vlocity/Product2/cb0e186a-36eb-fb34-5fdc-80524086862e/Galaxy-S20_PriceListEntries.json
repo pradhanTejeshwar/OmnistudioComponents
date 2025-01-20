@@ -1,0 +1,52 @@
+[
+    {
+        "%vlocity_namespace%__BasePriceListId__c": "",
+        "%vlocity_namespace%__DisplayText__c": "$890",
+        "%vlocity_namespace%__EffectiveFromDate__c": "2020-10-16T03:00:00.000Z",
+        "%vlocity_namespace%__EffectiveUntilDate__c": "",
+        "%vlocity_namespace%__GlobalKey__c": "2c3bf48c-8759-1137-2aa5-9e8d3e870610",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__IsBasePrice__c": true,
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsVirtualPrice__c": false,
+        "%vlocity_namespace%__OfferId__c": "",
+        "%vlocity_namespace%__PriceBookEntryId__c": {
+            "Pricebook2.Name": "Standard Price Book",
+            "Product2.%vlocity_namespace%__GlobalKey__c": "cb0e186a-36eb-fb34-5fdc-80524086862e",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "PricebookEntry/Pricebook2/Standard Price Book/Product2/cb0e186a-36eb-fb34-5fdc-80524086862e",
+            "VlocityRecordSObjectType": "PricebookEntry"
+        },
+        "%vlocity_namespace%__PriceListId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_PRICELIST_B2B_PRICELIST",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__PriceList__c/VEPC_PRICELIST_B2B_PRICELIST",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__PriceList__c"
+        },
+        "%vlocity_namespace%__PriceListName__c": "B2B Pricelist",
+        "%vlocity_namespace%__PricingElementAmount__c": 890,
+        "%vlocity_namespace%__PricingElementGlobalKey__c": "5538f98f-f6fb-5c07-33a0-a1ac137b471a",
+        "%vlocity_namespace%__PricingElementId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "2ce4964f-1258-85fc-2180-14e32a256d53",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__PricingElement__c/2ce4964f-1258-85fc-2180-14e32a256d53",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__PricingElement__c"
+        },
+        "%vlocity_namespace%__PricingMatrixBindingData__c": "",
+        "%vlocity_namespace%__ProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "cb0e186a-36eb-fb34-5fdc-80524086862e",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/cb0e186a-36eb-fb34-5fdc-80524086862e",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__PromotionItemId__c": "",
+        "%vlocity_namespace%__RulesDescription__c": "",
+        "%vlocity_namespace%__TimePlanId__c": "",
+        "%vlocity_namespace%__TimePolicyId__c": "",
+        "Name": "2c3bf48c-8759-1137-2aa5-9e8d3e870610",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__PriceListEntry__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__PriceListEntry__c/2c3bf48c-8759-1137-2aa5-9e8d3e870610"
+    }
+]

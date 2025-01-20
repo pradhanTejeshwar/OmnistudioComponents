@@ -1,0 +1,1598 @@
+[
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "3c83376c-9f56-14e3-f2ba-44bd6618f81d",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "36bc38",
+            "dataType": "Text",
+            "displayOrder": 4,
+            "headerType": "Input",
+            "label": null,
+            "listValues": null,
+            "name": "Characteristic Value"
+        },
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "ec65137f-3837-399e-8513-da6c3be342af",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "89a21b",
+            "dataType": "Text",
+            "displayOrder": 2,
+            "headerType": "Input",
+            "label": null,
+            "listValues": null,
+            "name": "Source Product Code"
+        },
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "0b34a8e3-a86c-6c5c-9662-595ca7c26a72",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "9e2153",
+            "dataType": "Text",
+            "displayOrder": 3,
+            "headerType": "Input",
+            "label": null,
+            "listValues": null,
+            "name": "Characteristic Name"
+        },
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "24524d1f-f110-049a-0f05-af93e152a3d1",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "b82c20",
+            "dataType": "Text",
+            "displayOrder": 6,
+            "headerType": "Output",
+            "label": null,
+            "listValues": null,
+            "name": "NRC"
+        },
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "fd2955a3-d1d8-6fc9-c2ad-77911357da0c",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "d89af6",
+            "dataType": "Text",
+            "displayOrder": 1,
+            "headerType": "Input",
+            "label": null,
+            "listValues": null,
+            "name": "Source Product Name"
+        },
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "bf85f541-62b4-e602-c908-f88013f611ec",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "fb2bf1",
+            "dataType": "Text",
+            "displayOrder": 5,
+            "headerType": "Output",
+            "label": null,
+            "listValues": null,
+            "name": "MRC"
+        },
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "d4b2d8f8-3ba1-dc85-82ff-789c6ffa4744",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "1 Year",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ENHANCED",
+            "Source Product Name": "Business Internet Enhanced"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "46",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "488ad2fbaa26ecb79514237588109fa0",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "3bcc746b-08d7-b371-f978-3283a4cd726f",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "1 Year",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ESSENTIAL",
+            "Source Product Name": "Business Internet Essential"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "27",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "217f4b50ad81c437fafca842cb378265",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "d0c5a87c-8ee4-2709-44b3-e0fc5acff5a5",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "1 Year",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_PRO",
+            "Source Product Name": "Business Internet Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "95",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "1df7964be2d240ca6322d27a2680766d",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "58db75f9-9b08-bcac-6043-e8d4087ba214",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "10 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ENHANCED",
+            "Source Product Name": "Business Internet Enhanced"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "26",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "c2644644f11a9a6e1113fc142a85af15",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "47712e43-cafb-3d8d-4447-99c6e572586c",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "10 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ESSENTIAL",
+            "Source Product Name": "Business Internet Essential"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "12",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "a1cc924ffea6cf060a4c427d5d9ff7fd",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "70dfa3be-ca43-a6fe-16e9-2a95f112d559",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "10 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_PRO",
+            "Source Product Name": "Business Internet Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "70",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "7941ba8e2c04a15196b4f729fa01d3bf",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "56aa5275-7148-b2b1-dd9f-136b80228fed",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "2 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ENHANCED",
+            "Source Product Name": "Business Internet Enhanced"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "42",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "e5bc33ce3d319842d4460ba86c99c593",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "26d838ba-23e8-d527-0ac8-828de84c2a53",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "2 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ESSENTIAL",
+            "Source Product Name": "Business Internet Essential"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "24",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "710adb5a3d4c92771d6a60e4fe351e5c",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "5df6a3dd-27ca-9c3d-9624-3d3abf117c7d",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "2 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_PRO",
+            "Source Product Name": "Business Internet Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "90",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "f8bf105678b01b531e53617508509277",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "78a01e56-3612-4cea-2026-d14d3b1ddc1e",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "3 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ENHANCED",
+            "Source Product Name": "Business Internet Enhanced"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "38",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "cc3a58abbdeea5070377cc7a4293eb45",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "fbf5c0f6-26f2-82ad-9d2a-dc9500a19a98",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "3 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ESSENTIAL",
+            "Source Product Name": "Business Internet Essential"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "21",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "d954d1806712eb0a63532a457486a49a",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "68f04a40-8214-b087-8966-83bd1c87ffc8",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "3 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_PRO",
+            "Source Product Name": "Business Internet Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "85",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "2ffed332657b38a3c3e41840a72fc5af",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "eb8b6581-b67b-84a1-6c0d-1f11bbbd02c1",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "4 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ENHANCED",
+            "Source Product Name": "Business Internet Enhanced"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "34",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "5f425034a513b730ad357080012962f6",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "8f6900ec-7289-4f89-dfb0-cfbf278387b3",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "4 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ESSENTIAL",
+            "Source Product Name": "Business Internet Essential"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "18",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "310881b9d13b0440b17a52b4c7ea65c5",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "dc96bf0a-32c6-c428-643c-26e6d57b5e7f",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "4 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_PRO",
+            "Source Product Name": "Business Internet Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "80",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "0e78f0dcf89ba0a80e7fd084edccc529",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "8adcdeb5-73ac-791f-f13e-1495dbc16412",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "5 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ENHANCED",
+            "Source Product Name": "Business Internet Enhanced"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "30",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "f60a94ea1feef91bbbb6c4906ce2abcf",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "d42b1e11-149b-9904-7d50-1bb66ea5d4f5",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "5 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ESSENTIAL",
+            "Source Product Name": "Business Internet Essential"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "15",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "0bd1a601a38b5c0c02f2d097f6e951e8",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "798e3af6-d2fe-bc77-c1c0-b589189a6430",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "5 Years",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_PRO",
+            "Source Product Name": "Business Internet Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "75",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "82c190aa356bed5c492ecb36bcb55c8b",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "7dfeeb64-582b-90dc-398a-faa478e3cfd4",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "Month-to-Month",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ENHANCED",
+            "Source Product Name": "Business Internet Enhanced"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "50",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "cdbda8196ed3d7a7c84bce4e9c31bd63",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "069e5d0f-9ccb-f3b9-4040-debd46eb05ca",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "Month-to-Month",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_ESSENTIAL",
+            "Source Product Name": "Business Internet Essential"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "30",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "1e2b7428c2e7b176dcef7dd51078091b",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "7f1ed07c-d64c-7e5d-3853-86ac786612fd",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Contract Term",
+            "Characteristic Value": "Month-to-Month",
+            "Source Product Code": "VEPC_OFFERING_BUSINESS_INTERNET_PRO",
+            "Source Product Name": "Business Internet Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "100",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "55adb5b1481c3bb29d58f816d1d311d3",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "be1e4b79-7f1d-d671-1b00-144c81af17f6",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "128",
+            "Source Product Code": "VPL_Galaxy M02",
+            "Source Product Name": "Galaxy M01"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "725"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "012d3631969d1450877b60a9f2cdac3a",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "a263c653-fb76-b493-d39d-6742679b2897",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "128",
+            "Source Product Code": "VPL_GalaxyJ2Core",
+            "Source Product Name": "Galaxy J2 Core"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "320"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "d2cd3aa1fb5e0e0c4694c0a20dfcb2b9",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "523b01b6-2bbf-6092-f090-07d9f925c9dc",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "128",
+            "Source Product Code": "VPL_iPhone11Pro",
+            "Source Product Name": "iPhone 11 Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "725"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "3b384cfe8602f85bd3118a5f002ee982",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b2264251-3466-c3fe-6495-bab7fddd5457",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "128",
+            "Source Product Code": "VPL_iPhone12",
+            "Source Product Name": "iPhone 12"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "1000"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2021-01-15T22:27:00.000Z",
+        "Name": "cca3ca1c85ff15b50dfbe9ee99d861d4",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "74f9eb16-6c6f-0320-4644-b748e9d8a483",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "128",
+            "Source Product Code": "VPL_iPhoneSE",
+            "Source Product Name": "iPhone SE"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "525"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "2682c7cce21af247e9a36817a6b7e094",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "33acf944-1a7a-66bb-f3a0-6dedd17280c4",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "128",
+            "Source Product Code": "VPL_iPhoneXR",
+            "Source Product Name": "iPhone XR"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "630"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "6543086c4b4a1dd65f4dccbc0485dbe6",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "d3ce15db-bf83-4d21-4a49-70c9c6db4124",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "256",
+            "Source Product Code": "VPL_Galaxy M03",
+            "Source Product Name": "Galaxy M01"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "750"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "4b85b41170eedb1175c61e186ab80ef5",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "45c6c665-eda7-2f0f-0693-2c458dd8de52",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "256",
+            "Source Product Code": "VPL_GalaxyJ2Core",
+            "Source Product Name": "Galaxy J2 Core"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "345"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "c3470dcd380238cda92e94785e016d35",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b037d0e8-cbdd-01d4-60c1-2a484c00350a",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "256",
+            "Source Product Code": "VPL_iPhone11Pro",
+            "Source Product Name": "iPhone 11 Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "750"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "144b03da30790ddfd101c48ba89c9d0d",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "feaed80a-afa1-1a86-fe4c-8a70676ba99b",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "256",
+            "Source Product Code": "VPL_iPhone12",
+            "Source Product Name": "iPhone 12"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "1100"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2021-01-15T22:27:00.000Z",
+        "Name": "16e60facde683fb3ccc2f3b2a205677f",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "36aa37f0-f0d0-65df-f76c-618ff71c23e4",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "256",
+            "Source Product Code": "VPL_iPhoneSE",
+            "Source Product Name": "iPhone SE"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "550"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "b7d328b6778df3c2d98736460abed36a",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "4fcfbe85-0350-514a-634c-a38b0d1a1add",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "256",
+            "Source Product Code": "VPL_iPhoneXR",
+            "Source Product Name": "iPhone XR"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "650"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "0c98764a13915b7c1a5ee033a1b855f2",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "008cc97e-a958-9c46-f32a-ac08dac9f5f7",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "512",
+            "Source Product Code": "VPL_Galaxy M04",
+            "Source Product Name": "Galaxy M01"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "770"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "48369f829fb35c14c5e1a9920310d9ce",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "11d08a38-733c-7218-cf7d-e11bff8de1f9",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "512",
+            "Source Product Code": "VPL_GalaxyJ2Core",
+            "Source Product Name": "Galaxy J2 Core"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "370"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "411789639adab8f2f3723a67a8e13217",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "785a9f95-65f0-defc-65b5-c492f18cb502",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "512",
+            "Source Product Code": "VPL_iPhone11Pro",
+            "Source Product Name": "iPhone 11 Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "800"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "c3b15edd1c33d71b4c3a0a858218d2ff",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "c377cb0d-52b7-29b4-0b59-9a27d49f97bd",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "512",
+            "Source Product Code": "VPL_iPhone12",
+            "Source Product Name": "iPhone 12"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "1250"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2021-01-15T22:27:00.000Z",
+        "Name": "da0a55cc85fb523c6dcaab5b79da5ab1",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "dffb5415-b2fd-e599-a381-5bd079a81d98",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "512",
+            "Source Product Code": "VPL_iPhoneSE",
+            "Source Product Name": "iPhone SE"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "580"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "5c85850b0597dd63c298440d5241334b",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b9b1d778-b0ba-b594-5788-25580142dece",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "512",
+            "Source Product Code": "VPL_iPhoneXR",
+            "Source Product Name": "iPhone XR"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "690"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "fdfddec48be7af3f61e35e0f5456776a",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "1b49362f-6be6-5123-f4a2-fddbb2224250",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "64",
+            "Source Product Code": "VPL_Galaxy M01",
+            "Source Product Name": "Galaxy M01"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "680"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "7fe8f401e98d0628b10226ba93bfa019",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "8df6277b-0ce1-bb1c-757f-b6e0eefdd578",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "64",
+            "Source Product Code": "VPL_GalaxyJ2Core",
+            "Source Product Name": "Galaxy J2 Core"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "290"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "3bf7bd1d1048ab19b97508cd726a3a3f",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "96ccaffc-9804-6b20-e4e8-d8079cb1fb6a",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "64",
+            "Source Product Code": "VPL_iPhone11Pro",
+            "Source Product Name": "iPhone 11 Pro"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "700"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "bd4428355e7ccaf5ff5c081b3f7a5a0f",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b4a0466b-04a8-1aaa-07f7-7937748cea51",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "64",
+            "Source Product Code": "VPL_iPhoneSE",
+            "Source Product Name": "iPhone SE"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "500"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "ab80fdafbff2cbc74b0ce72e9f82a58d",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "fc74b36d-c9c5-1a36-0681-3038b62abf26",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Handset Storage Capacity",
+            "Characteristic Value": "64",
+            "Source Product Code": "VPL_iPhoneXR",
+            "Source Product Name": "iPhone XR"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "0",
+            "NRC": "600"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "0b133184032039b06856ae75ec01e348",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b12021af-e7a4-079d-dce9-18fbcdcf01ca",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "1",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "10",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "89d7674a377f23f22bffd6bf80496792",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "00dc399b-de08-7c10-dcf5-1cfc4eea3a6e",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "10",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "80",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "b618a97eed00de141d64b92df165328e",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "a44ff5fa-16a2-9049-10ab-f1d6600bb139",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "2",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "20",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "fbcc42b641eec1d6677840d128c68b19",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b9ce3a4a-d10a-564d-a671-150b5758bf72",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "3",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "29",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "6df345d0ee46a11266d558b41d5fac19",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "bcf54450-d45c-e8c0-80f6-f4e134666e0e",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "4",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "38",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "b29eda09f07377ed8b40ec30f985e278",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "f77b6176-15b0-0337-4b1b-3d6e0a6cfab7",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "5",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "46",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "eee353ca2b3670c39080b6262fb3ab06",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "031c9897-cd93-1203-29cc-ec85aaa9745f",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "6",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "54",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "65eb0130df8355d93d56c8da04039d1e",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "82db6397-535c-262e-7cc5-585390a75724",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "7",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "61",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "38e3816133434b2609f1f3e9c5f4f65f",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "5bf6540c-e7ec-5796-9567-f4b1220cc743",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "8",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "68",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "b486033f2758aaaf5c5319121cba8b69",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "79a23dd4-cfc1-a204-c83f-9bb26eb6515c",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Security Software Licenses",
+            "Characteristic Value": "9",
+            "Source Product Code": "VEPC_OFFERING_INTERNET_SECURITY_SOFTWARE",
+            "Source Product Name": "Internet Security Software"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "74",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "98b1a0fd35d16a0eef3cb3141515b67c",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "e9e675b4-a595-8915-d2e9-f28fceff6cd2",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Static IP Addresses",
+            "Characteristic Value": "1",
+            "Source Product Code": "VEPC_OFFERING_STATIC_IP",
+            "Source Product Name": "Static IP"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "5",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "9eaf855b6e6a2818a17304a581e27c9d",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "1b3976ba-6b3e-5676-86eb-4cc20d9adfab",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Static IP Addresses",
+            "Characteristic Value": "125",
+            "Source Product Code": "VEPC_OFFERING_STATIC_IP",
+            "Source Product Name": "Static IP"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "35",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "7d6d11c2be025c276a5f5eeced76c00f",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "777e7c40-aecc-cc65-4a99-e6c5aba1004b",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Static IP Addresses",
+            "Characteristic Value": "13",
+            "Source Product Code": "VEPC_OFFERING_STATIC_IP",
+            "Source Product Name": "Static IP"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "20",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "ed6ad7826fa8abbf123cd785e2c8c31e",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "1c8f1aee-0bd4-5b47-b828-3772c9f3dcae",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Static IP Addresses",
+            "Characteristic Value": "2",
+            "Source Product Code": "VEPC_OFFERING_STATIC_IP",
+            "Source Product Name": "Static IP"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "10",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "e105168845d65918dac64d8682d4136c",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "cc55721a-405d-8245-2cce-246c3dcdce42",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Static IP Addresses",
+            "Characteristic Value": "29",
+            "Source Product Code": "VEPC_OFFERING_STATIC_IP",
+            "Source Product Name": "Static IP"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "25",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "3db0005af5bb79b04cb5abf9a00cb8a1",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "281cbce5-a9a1-4da2-519e-61d004a00ed0",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Static IP Addresses",
+            "Characteristic Value": "5",
+            "Source Product Code": "VEPC_OFFERING_STATIC_IP",
+            "Source Product Name": "Static IP"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "15",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "a4dbc878a9e4a2aee4a6f0b5c0af1b69",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "AttributePricingMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 9,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/9/%vlocity_namespace%__CalculationMatrix__c/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "6dea91b1-7a91-6120-ab89-ab1caaed94aa",
+        "%vlocity_namespace%__InputData__c": {
+            "Characteristic Name": "Number of Static IP Addresses",
+            "Characteristic Value": "61",
+            "Source Product Code": "VEPC_OFFERING_STATIC_IP",
+            "Source Product Name": "Static IP"
+        },
+        "%vlocity_namespace%__OutputData__c": {
+            "MRC": "30",
+            "NRC": "0"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2020-09-12T22:24:00.000Z",
+        "Name": "c2d730249595c6ea08afb2166e09399c",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccessControlPolicy xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <content xsi:nil="true"/>
+    <active>true</active>
+    <deploymentStatus>New</deploymentStatus>
+    <description>XACML xacmlPolicy with restriction rule and field restriction rule for User entity</description>
+    <masterLabel>User Policy</masterLabel>
+    <targetEntity>User</targetEntity>
+    <version>1</version>
+</AccessControlPolicy>

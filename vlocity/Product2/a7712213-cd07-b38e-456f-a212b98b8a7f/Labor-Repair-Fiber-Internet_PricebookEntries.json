@@ -1,0 +1,33 @@
+[
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": "",
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "IsArchived": false,
+        "IsDerived": false,
+        "Name": "Labor - Repair Fiber Internet",
+        "Pricebook2.Name": "Standard Price Book",
+        "Pricebook2Id": {
+            "Name": "Standard Price Book",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Pricebook2/Standard Price Book",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2.%vlocity_namespace%__GlobalKey__c": "a7712213-cd07-b38e-456f-a212b98b8a7f",
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": "a7712213-cd07-b38e-456f-a212b98b8a7f",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/a7712213-cd07-b38e-456f-a212b98b8a7f",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "LBR-01",
+        "UnitPrice": 30,
+        "UseStandardPrice": false,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/Standard Price Book/Product2/a7712213-cd07-b38e-456f-a212b98b8a7f"
+    }
+]

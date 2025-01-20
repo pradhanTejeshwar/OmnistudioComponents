@@ -1,0 +1,114 @@
+[
+    {
+        "%vlocity_namespace%__Code__c": "B2B_MatrixEligibility",
+        "%vlocity_namespace%__ConditionType__c": "Advanced",
+        "%vlocity_namespace%__ContextDimensionId__c": "",
+        "%vlocity_namespace%__DefaultValue__c": true,
+        "%vlocity_namespace%__EntityFilterConditionArgument__c": [
+            {
+                "%vlocity_namespace%__ArgumentSequence__c": 100,
+                "%vlocity_namespace%__ContextDimensionId__c": {
+                    "%vlocity_namespace%__GlobalKey__c": "4f1ba862-323e-4884-b57f-29caa6f33f6a",
+                    "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+                    "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ContextDimension__c/4f1ba862-323e-4884-b57f-29caa6f33f6a",
+                    "VlocityRecordSObjectType": "%vlocity_namespace%__ContextDimension__c"
+                },
+                "%vlocity_namespace%__DomainType__c": "Context Dimension",
+                "%vlocity_namespace%__FilterConditionId__c": {
+                    "Name": "EFC-00002",
+                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                    "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__EntityFilterCondition__c/Generated-656398759",
+                    "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilterCondition__c"
+                },
+                "%vlocity_namespace%__FunctionArgumentId__c": {
+                    "%vlocity_namespace%__GlobalKey__c": "d68779ad-3b40-4229-62e5-d9376c3a286e",
+                    "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+                    "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VlocityFunctionArgument__c/d68779ad-3b40-4229-62e5-d9376c3a286e",
+                    "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityFunctionArgument__c"
+                },
+                "%vlocity_namespace%__ObjectId__c": "",
+                "%vlocity_namespace%__PicklistValueId__c": "",
+                "%vlocity_namespace%__Value__c": "",
+                "Name": "QuoteContextKey",
+                "VlocityDataPackType": "SObject",
+                "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilterConditionArgument__c",
+                "VlocityRecordSourceKey": "%vlocity_namespace%__EntityFilterConditionArgument__c/Generated729794907"
+            },
+            {
+                "%vlocity_namespace%__ArgumentSequence__c": 150,
+                "%vlocity_namespace%__ContextDimensionId__c": "",
+                "%vlocity_namespace%__DomainType__c": "Type in",
+                "%vlocity_namespace%__FilterConditionId__c": {
+                    "Name": "EFC-00002",
+                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                    "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__EntityFilterCondition__c/Generated-656398759",
+                    "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilterCondition__c"
+                },
+                "%vlocity_namespace%__FunctionArgumentId__c": {
+                    "%vlocity_namespace%__GlobalKey__c": "54a174bd-a195-6a6c-5dbf-0d36daa93f03",
+                    "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+                    "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VlocityFunctionArgument__c/54a174bd-a195-6a6c-5dbf-0d36daa93f03",
+                    "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityFunctionArgument__c"
+                },
+                "%vlocity_namespace%__ObjectId__c": "",
+                "%vlocity_namespace%__PicklistValueId__c": "",
+                "%vlocity_namespace%__Value__c": "VEPC_OFFERING_UNI",
+                "Name": "ProductCode",
+                "VlocityDataPackType": "SObject",
+                "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilterConditionArgument__c",
+                "VlocityRecordSourceKey": "%vlocity_namespace%__EntityFilterConditionArgument__c/Generated1546960852"
+            },
+            {
+                "%vlocity_namespace%__ArgumentSequence__c": 200,
+                "%vlocity_namespace%__ContextDimensionId__c": "",
+                "%vlocity_namespace%__DomainType__c": "Type in",
+                "%vlocity_namespace%__FilterConditionId__c": {
+                    "Name": "EFC-00002",
+                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                    "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__EntityFilterCondition__c/Generated-656398759",
+                    "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilterCondition__c"
+                },
+                "%vlocity_namespace%__FunctionArgumentId__c": {
+                    "%vlocity_namespace%__GlobalKey__c": "5ae1bc5e-7a16-4556-c4ea-311b4f0e9421",
+                    "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+                    "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VlocityFunctionArgument__c/5ae1bc5e-7a16-4556-c4ea-311b4f0e9421",
+                    "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityFunctionArgument__c"
+                },
+                "%vlocity_namespace%__ObjectId__c": "",
+                "%vlocity_namespace%__PicklistValueId__c": "",
+                "%vlocity_namespace%__Value__c": "false",
+                "Name": "isEligible",
+                "VlocityDataPackType": "SObject",
+                "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilterConditionArgument__c",
+                "VlocityRecordSourceKey": "%vlocity_namespace%__EntityFilterConditionArgument__c/Generated939028688"
+            }
+        ],
+        "%vlocity_namespace%__EntityFilterId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "16a27c5e-22df-7625-5320-3226f922a3d8",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__EntityFilter__c/16a27c5e-22df-7625-5320-3226f922a3d8",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilter__c"
+        },
+        "%vlocity_namespace%__FailLevel__c": "",
+        "%vlocity_namespace%__FailureMessage__c": "",
+        "%vlocity_namespace%__FieldName__c": "B2B_MatrixEligibility(CartContextValues ,  'VEPC_OFFERING_UNI')",
+        "%vlocity_namespace%__FieldType__c": "",
+        "%vlocity_namespace%__FunctionJSON__c": "",
+        "%vlocity_namespace%__Index__c": "",
+        "%vlocity_namespace%__IsNot__c": false,
+        "%vlocity_namespace%__Operator__c": "!=",
+        "%vlocity_namespace%__Type__c": "",
+        "%vlocity_namespace%__ValueLabel__c": "",
+        "%vlocity_namespace%__Value__c": "false",
+        "%vlocity_namespace%__VlocityFunctionId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "8d2a43fb-7646-15b3-581e-eab3cb6d6476",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VlocityFunction__c/8d2a43fb-7646-15b3-581e-eab3cb6d6476",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityFunction__c"
+        },
+        "Name": "AutoGenerated",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilterCondition__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__EntityFilterCondition__c/Generated-656398759"
+    }
+]

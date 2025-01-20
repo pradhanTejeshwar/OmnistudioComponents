@@ -1,0 +1,45 @@
+[
+    {
+        "%vlocity_namespace%__IsExclude__c": false,
+        "%vlocity_namespace%__OverriddenProductChildItemId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "5d600048-a0ba-68b5-c27f-54101fe598e9",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ProductChildItem__c/5d600048-a0ba-68b5-c27f-54101fe598e9",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c"
+        },
+        "%vlocity_namespace%__OverrideType__c": "Product Definition",
+        "%vlocity_namespace%__OverridingProductChildItemId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "7de4125f-bf5b-b38b-8df8-f46e10d1d643",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ProductChildItem__c/7de4125f-bf5b-b38b-8df8-f46e10d1d643",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c"
+        },
+        "%vlocity_namespace%__ProductGroupKey__c": "23aeb13e-c2dc-a8b9-a37d-2c0f03b4b0d8",
+        "%vlocity_namespace%__ProductHierarchyGlobalKeyPath__c": "bb0eb71a-f44c-bf6f-f03e-6b2726f1fe5c<bf179042-a482-5b9c-b0c7-51fc2b38ce18",
+        "%vlocity_namespace%__ProductHierarchyGroupKeyPath__c": "23aeb13e-c2dc-a8b9-a37d-2c0f03b4b0d8<3eed23b0-2fce-bdb1-4776-f7b84b250f37",
+        "%vlocity_namespace%__ProductHierarchyPath__c": "01tWs0000011oThIAI<01tWs0000011oVGIAY",
+        "%vlocity_namespace%__ProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "bb0eb71a-f44c-bf6f-f03e-6b2726f1fe5c",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/bb0eb71a-f44c-bf6f-f03e-6b2726f1fe5c",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__PromotionId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "763fef91-d02c-33a6-082b-30f711fe4ac2",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Promotion__c/763fef91-d02c-33a6-082b-30f711fe4ac2",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Promotion__c"
+        },
+        "%vlocity_namespace%__PromotionItemGroupKey__c": "da08262a-e118-af54-05c0-f4d5cdbc8184",
+        "%vlocity_namespace%__PromotionItemId__c": {
+            "%vlocity_namespace%__ProductId__r.%vlocity_namespace%__GlobalKey__c": "bb0eb71a-f44c-bf6f-f03e-6b2726f1fe5c",
+            "%vlocity_namespace%__PromotionId__r.%vlocity_namespace%__GlobalKey__c": "763fef91-d02c-33a6-082b-30f711fe4ac2",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/763fef91-d02c-33a6-082b-30f711fe4ac2/Product2/bb0eb71a-f44c-bf6f-f03e-6b2726f1fe5c",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__PromotionItem__c"
+        },
+        "Name": "OverrideDefinition",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OverrideDefinition__c"
+    }
+]

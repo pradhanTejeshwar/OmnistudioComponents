@@ -1,0 +1,68 @@
+[
+    {
+        "%vlocity_namespace%__AllowIndependentLifeCycle__c": false,
+        "%vlocity_namespace%__ChildLineNumber__c": "1",
+        "%vlocity_namespace%__ChildProductId__c": "",
+        "%vlocity_namespace%__CollapseHierarchy__c": false,
+        "%vlocity_namespace%__GlobalKey__c": "0049bc5b-b98e-2288-7a77-c064c3ac8980",
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsRootProductChildItem__c": true,
+        "%vlocity_namespace%__IsVirtualItem__c": false,
+        "%vlocity_namespace%__MaxQuantity__c": 99999,
+        "%vlocity_namespace%__MaximumChildItemQuantity__c": 99999,
+        "%vlocity_namespace%__MinMaxDefaultQty__c": "0, 99999, 1",
+        "%vlocity_namespace%__MinQuantity__c": 0,
+        "%vlocity_namespace%__MinimumChildItemQuantity__c": 0,
+        "%vlocity_namespace%__ParentProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "487a591f-2166-0164-83b7-2d6b89822bdb",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/487a591f-2166-0164-83b7-2d6b89822bdb",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__ParentProductName__c": "WAN",
+        "%vlocity_namespace%__Quantity__c": 1,
+        "%vlocity_namespace%__RelationshipType__c": "Child",
+        "%vlocity_namespace%__SelectionMethodImplementation__c": "",
+        "%vlocity_namespace%__SeqNumber__c": 1,
+        "Name": "Root PCI",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__ProductChildItem__c/0049bc5b-b98e-2288-7a77-c064c3ac8980"
+    },
+    {
+        "%vlocity_namespace%__AllowIndependentLifeCycle__c": false,
+        "%vlocity_namespace%__ChildLineNumber__c": "10",
+        "%vlocity_namespace%__ChildProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "30cbb678-b802-b3d5-7720-9c33b13bb1ed",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/30cbb678-b802-b3d5-7720-9c33b13bb1ed",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__ChildProductName__c": "Add-on Services",
+        "%vlocity_namespace%__CollapseHierarchy__c": false,
+        "%vlocity_namespace%__GlobalKey__c": "7ac93cb3-1e25-2f19-efea-53266bd6f41b",
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsRootProductChildItem__c": false,
+        "%vlocity_namespace%__IsVirtualItem__c": true,
+        "%vlocity_namespace%__MaxQuantity__c": 1,
+        "%vlocity_namespace%__MaximumChildItemQuantity__c": 99,
+        "%vlocity_namespace%__MinMaxDefaultQty__c": "1, 1, 1",
+        "%vlocity_namespace%__MinQuantity__c": 1,
+        "%vlocity_namespace%__MinimumChildItemQuantity__c": 0,
+        "%vlocity_namespace%__ParentProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "487a591f-2166-0164-83b7-2d6b89822bdb",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/487a591f-2166-0164-83b7-2d6b89822bdb",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__ParentProductName__c": "WAN",
+        "%vlocity_namespace%__Quantity__c": 1,
+        "%vlocity_namespace%__RelationshipType__c": "Child",
+        "%vlocity_namespace%__SelectionMethodImplementation__c": "",
+        "%vlocity_namespace%__SeqNumber__c": 10,
+        "Name": "WAN-Add-on Services",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__ProductChildItem__c/7ac93cb3-1e25-2f19-efea-53266bd6f41b"
+    }
+]

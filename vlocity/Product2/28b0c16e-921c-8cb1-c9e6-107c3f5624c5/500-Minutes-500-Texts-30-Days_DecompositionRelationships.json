@@ -1,0 +1,33 @@
+[
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "bf7b1737-592e-e6e8-0e3f-84a7afb62687",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/bf7b1737-592e-e6e8-0e3f-84a7afb62687",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "b005f24b-0076-51ac-299a-1f3337789a25",
+        "%vlocity_namespace%__MappingsData__c": "[{\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"DC Add On Name\",\"destination_attr_code\":\"DC_ATT_ADD_ON_NAME_01\",\"source_field_name\":\"Product2.Name\",\"source_type\":\"Field\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "28b0c16e-921c-8cb1-c9e6-107c3f5624c5",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/28b0c16e-921c-8cb1-c9e6-107c3f5624c5",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "28b0c16e-921c-8cb1-c9e6-107c3f5624c5",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "B2B 500 Minutes & 500 Texts 30 Days to B2B Mobile Billing CFS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/B2B 500 Minutes & 500 Texts 30 Days to B2B Mobile Billing CFS/Product2/28b0c16e-921c-8cb1-c9e6-107c3f5624c5"
+    }
+]

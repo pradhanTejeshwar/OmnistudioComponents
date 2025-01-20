@@ -1,0 +1,102 @@
+[
+    {
+        "%vlocity_namespace%__BasePriceListId__c": "",
+        "%vlocity_namespace%__DisplayText__c": "100",
+        "%vlocity_namespace%__EffectiveFromDate__c": "2019-08-04T00:00:00.000Z",
+        "%vlocity_namespace%__EffectiveUntilDate__c": "2099-08-04T00:00:00.000Z",
+        "%vlocity_namespace%__GlobalKey__c": "0263e2a9-2636-1bcc-d819-09b51d91d6c6",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__IsBasePrice__c": true,
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsVirtualPrice__c": false,
+        "%vlocity_namespace%__OfferId__c": "",
+        "%vlocity_namespace%__PriceBookEntryId__c": {
+            "Pricebook2.Name": "Standard Price Book",
+            "Product2.%vlocity_namespace%__GlobalKey__c": "e1750c5b-ffa3-8038-49a4-6b0e5891d64e",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "PricebookEntry/Pricebook2/Standard Price Book/Product2/e1750c5b-ffa3-8038-49a4-6b0e5891d64e",
+            "VlocityRecordSObjectType": "PricebookEntry"
+        },
+        "%vlocity_namespace%__PriceListId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_PRICELIST_2020_BUSINESS",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__PriceList__c/VEPC_PRICELIST_2020_BUSINESS",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__PriceList__c"
+        },
+        "%vlocity_namespace%__PriceListName__c": "2020 Business",
+        "%vlocity_namespace%__PricingElementAmount__c": 100,
+        "%vlocity_namespace%__PricingElementGlobalKey__c": "10fe1485-2f59-d145-7a4c-0374e50cc6bd",
+        "%vlocity_namespace%__PricingElementId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "fe780abb-2e1d-7e13-7a4d-5591fcafd850",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__PricingElement__c/fe780abb-2e1d-7e13-7a4d-5591fcafd850",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__PricingElement__c"
+        },
+        "%vlocity_namespace%__PricingMatrixBindingData__c": "",
+        "%vlocity_namespace%__ProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e1750c5b-ffa3-8038-49a4-6b0e5891d64e",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e1750c5b-ffa3-8038-49a4-6b0e5891d64e",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__PromotionItemId__c": "",
+        "%vlocity_namespace%__RulesDescription__c": "",
+        "%vlocity_namespace%__TimePlanId__c": "",
+        "%vlocity_namespace%__TimePolicyId__c": "",
+        "Name": "0263e2a9-2636-1bcc-d819-09b51d91d6c6",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__PriceListEntry__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__PriceListEntry__c/0263e2a9-2636-1bcc-d819-09b51d91d6c6"
+    },
+    {
+        "%vlocity_namespace%__BasePriceListId__c": "",
+        "%vlocity_namespace%__DisplayText__c": "1000",
+        "%vlocity_namespace%__EffectiveFromDate__c": "2019-08-04T00:00:00.000Z",
+        "%vlocity_namespace%__EffectiveUntilDate__c": "2099-08-04T00:00:00.000Z",
+        "%vlocity_namespace%__GlobalKey__c": "1476e9c7-ce27-8938-9962-3ed676078285",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__IsBasePrice__c": true,
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsVirtualPrice__c": false,
+        "%vlocity_namespace%__OfferId__c": "",
+        "%vlocity_namespace%__PriceBookEntryId__c": {
+            "Pricebook2.Name": "Standard Price Book",
+            "Product2.%vlocity_namespace%__GlobalKey__c": "e1750c5b-ffa3-8038-49a4-6b0e5891d64e",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "PricebookEntry/Pricebook2/Standard Price Book/Product2/e1750c5b-ffa3-8038-49a4-6b0e5891d64e",
+            "VlocityRecordSObjectType": "PricebookEntry"
+        },
+        "%vlocity_namespace%__PriceListId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_PRICELIST_B2B_PRICELIST",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__PriceList__c/VEPC_PRICELIST_B2B_PRICELIST",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__PriceList__c"
+        },
+        "%vlocity_namespace%__PriceListName__c": "B2B Pricelist",
+        "%vlocity_namespace%__PricingElementAmount__c": 1000,
+        "%vlocity_namespace%__PricingElementGlobalKey__c": "a35e5271-92ac-60b8-47fe-9c8ca4c5b895",
+        "%vlocity_namespace%__PricingElementId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "c2d2ee32-cc81-0463-536c-d9ed5a5ca014",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__PricingElement__c/c2d2ee32-cc81-0463-536c-d9ed5a5ca014",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__PricingElement__c"
+        },
+        "%vlocity_namespace%__PricingMatrixBindingData__c": "",
+        "%vlocity_namespace%__ProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e1750c5b-ffa3-8038-49a4-6b0e5891d64e",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e1750c5b-ffa3-8038-49a4-6b0e5891d64e",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__PromotionId__c": "",
+        "%vlocity_namespace%__PromotionItemId__c": "",
+        "%vlocity_namespace%__RulesDescription__c": "",
+        "%vlocity_namespace%__TimePlanId__c": "",
+        "%vlocity_namespace%__TimePolicyId__c": "",
+        "Name": "1476e9c7-ce27-8938-9962-3ed676078285",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__PriceListEntry__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__PriceListEntry__c/1476e9c7-ce27-8938-9962-3ed676078285"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "%vlocity_namespace%__EffectiveFromDate__c": "",
+    "%vlocity_namespace%__EffectiveUntilDate__c": "",
+    "%vlocity_namespace%__GlobalGroupKey__c": "c2d88009-f663-46f1-c84f-1270ba48127c",
+    "%vlocity_namespace%__GlobalKey__c": "46b1ccb6-2490-48bf-e205-7aeed987d785",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__IsVirtual__c": false,
+    "%vlocity_namespace%__LifecycleStatus__c": "",
+    "%vlocity_namespace%__Mode__c": "",
+    "%vlocity_namespace%__ObjectApiName__c": "Product2",
+    "%vlocity_namespace%__ParentObjectClassId__c": {
+        "%vlocity_namespace%__GlobalKey__c": "40dd58-b88b93-4f6b2d-1e54b4-c6e23af20",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/40dd58-b88b93-4f6b2d-1e54b4-c6e23af20",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+    },
+    "%vlocity_namespace%__RecordTypeName__c": "",
+    "%vlocity_namespace%__RootObjectClassId__c": {
+        "%vlocity_namespace%__GlobalKey__c": "63ba6ae5f8c257f7cdccc385d2a85dca",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/63ba6ae5f8c257f7cdccc385d2a85dca",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+    },
+    "%vlocity_namespace%__VersionLabel__c": "V1",
+    "Name": "Virtual Offer Object Type",
+    "RecordTypeId": {
+        "DeveloperName": "ObjectType",
+        "SobjectType": "%vlocity_namespace%__ObjectClass__c",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "RecordType/%vlocity_namespace%__ObjectClass__c/ObjectType",
+        "VlocityRecordSObjectType": "RecordType"
+    },
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/46b1ccb6-2490-48bf-e205-7aeed987d785"
+}

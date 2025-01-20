@@ -1,0 +1,11 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "6ab77b3c-254f-3024-d702-021bc16140b8",
+    "%vlocity_namespace%__IsSchedulingEnabled__c": false,
+    "%vlocity_namespace%__SchedulingExpirationIntervalSeconds__c": "",
+    "%vlocity_namespace%__Scope__c": "Global",
+    "%vlocity_namespace%__ShowOrder__c": "",
+    "Name": "Provisioning - Mobile",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationPlanDefinition__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationPlanDefinition__c/Provisioning - Mobile"
+}

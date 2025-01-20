@@ -1,0 +1,14 @@
+<template>
+<div class="welcome-card">
+    <lightning-card>
+        <h3 slot="title">
+            <lightning-icon icon-name="utility:sparkles" class="sparklesicon slds-p-right_small" size="small"></lightning-icon>
+            {getTiming.data} {getName.data} !
+        </h3>
+        <div class="slds-p-left_xx-large">
+        <p >This is your Learning trial org. You can access and play around with all features for <b>remaining {getExpiryDays.data}</b> days.</p>
+        </div>
+    </lightning-card>
+</div>
+    
+</template>

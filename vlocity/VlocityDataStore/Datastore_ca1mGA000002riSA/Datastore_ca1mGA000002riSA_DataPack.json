@@ -1,0 +1,29 @@
+{
+    "%vlocity_namespace%__Classname__c": "",
+    "%vlocity_namespace%__EffectiveEndDateTime__c": "",
+    "%vlocity_namespace%__EffectiveStartDateTime__c": "",
+    "%vlocity_namespace%__Key__c": {
+        "%vlocity_namespace%__GlobalKey__c": "35bd8a24-3774-d874-a30c-7dab1c348b0c",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "Product2/35bd8a24-3774-d874-a30c-7dab1c348b0c",
+        "VlocityRecordSObjectType": "Product2"
+    },
+    "%vlocity_namespace%__ProductId__c": {
+        "%vlocity_namespace%__GlobalKey__c": "35bd8a24-3774-d874-a30c-7dab1c348b0c",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "Product2/35bd8a24-3774-d874-a30c-7dab1c348b0c",
+        "VlocityRecordSObjectType": "Product2"
+    },
+    "%vlocity_namespace%__Value__c": "a4HGA000004HnQ22AK,a4HGA000004HnRg2AK,a4HGA000004HnRh2AK,a4HGA000004HnRi2AK,a4HGA000004HnRk2AK,a4HGA000004HnRl2AK,a4HGA000004HnRm2AK,a4HGA000004HnPa2AK,a4HGA000004HnPc2AK,a4HGA000004HnPd2AK,a4HGA000004HnQ12AK,a4HGA000004HnQV2A0,a4HGA000004HnQW2A0,a4HGA000004HnQY2A0,a4HGA000004HnQZ2A0,a4HGA000004HnQa2AK,a4HGA000004HnQb2AK,a4HGA000004HnQc2AK",
+    "Name": "Datastore__ca1mGA000002riSA",
+    "RecordTypeId": {
+        "DeveloperName": "ProductHierarchy",
+        "SobjectType": "%vlocity_namespace%__Datastore__c",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "RecordType/%vlocity_namespace%__Datastore__c/ProductHierarchy",
+        "VlocityRecordSObjectType": "RecordType"
+    },
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Datastore__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Datastore__c/Generated733676471"
+}

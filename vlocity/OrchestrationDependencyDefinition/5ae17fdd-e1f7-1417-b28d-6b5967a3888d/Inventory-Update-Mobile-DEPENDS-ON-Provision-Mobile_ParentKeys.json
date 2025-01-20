@@ -1,0 +1,5 @@
+[
+    "OrchestrationItemDefinition/Inventory Update - Mobile_Inventory - Mobile",
+    "OrchestrationItemDefinition/Provision - Mobile_Provisioning - Mobile",
+    "OrchestrationPlanDefinition/Provisioning - Mobile"
+]

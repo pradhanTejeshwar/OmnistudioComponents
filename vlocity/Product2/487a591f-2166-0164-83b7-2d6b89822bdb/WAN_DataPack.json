@@ -1,0 +1,307 @@
+{
+    "%vlocity_namespace%__ApprovedBy__c": "",
+    "%vlocity_namespace%__ApprovedOn__c": "",
+    "%vlocity_namespace%__AttributeAssignment__c": "WAN_AttributeAssignments.json",
+    "%vlocity_namespace%__AttributeDefaultValues__c": {
+        "VEPC_ATTR_ETHERNET_TYPE": "Switched",
+        "VEPC_ATTR_SERVICE_TOPOLOGY": null
+    },
+    "%vlocity_namespace%__AttributeMetadata__c": {
+        "messages": [
+        ],
+        "records": [
+            {
+                "Code__c": "VEPC_ATTRIBUTE_CATEGORY_NETWORK_DETAILS",
+                "Name": "Network Details",
+                "displaySequence": 7050,
+                "id": "a0YWs000000eB02MAE",
+                "messages": [
+                ],
+                "productAttributes": {
+                    "messages": [
+                    ],
+                    "records": [
+                        {
+                            "attributeId": "a0ZWs000000OE68MAG",
+                            "cloneable": true,
+                            "code": "VEPC_ATTR_SERVICE_TOPOLOGY",
+                            "dataType": "text",
+                            "description": "Service topology in MEF terminology (E-Line, E-LAN, E-Tree, etc.)",
+                            "disabled": false,
+                            "displaySequence": 10,
+                            "filterable": true,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "dropdown",
+                            "isNotTranslatable": false,
+                            "label": "Service Topology",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": [
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 10,
+                                    "id": "19cde5fc-ee95-256c-1ff0-06cb28772e40",
+                                    "label": "E-Line",
+                                    "name": "19cde5fc-ee95-256c-1ff0-06cb28772e40",
+                                    "readonly": false,
+                                    "value": "E-Line"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 20,
+                                    "id": "375f7829-653d-244d-51f7-a465e25f5dfe",
+                                    "label": "E-LAN",
+                                    "name": "375f7829-653d-244d-51f7-a465e25f5dfe",
+                                    "readonly": false,
+                                    "value": "E-LAN"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 50,
+                                    "id": "51dfd6ab-d4e6-9ebe-dd1b-86291190379a",
+                                    "label": "E-Transit",
+                                    "name": "51dfd6ab-d4e6-9ebe-dd1b-86291190379a",
+                                    "readonly": false,
+                                    "value": "E-Transit"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 30,
+                                    "id": "7ef15b4d-d6f0-02fd-7dc6-78dd120a8ad5",
+                                    "label": "E-Tree",
+                                    "name": "7ef15b4d-d6f0-02fd-7dc6-78dd120a8ad5",
+                                    "readonly": false,
+                                    "value": "E-Tree"
+                                },
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 40,
+                                    "id": "d73e9606-349d-37ff-0241-be185a4d4e02",
+                                    "label": "E-Access",
+                                    "name": "d73e9606-349d-37ff-0241-be185a4d4e02",
+                                    "readonly": false,
+                                    "value": "E-Access"
+                                }
+                            ]
+                        },
+                        {
+                            "attributeId": "a0ZWs000000OE67MAG",
+                            "cloneable": true,
+                            "code": "VEPC_ATTR_ETHERNET_TYPE",
+                            "dataType": "text",
+                            "description": "Ethernet type (switched or dedicated)",
+                            "disabled": false,
+                            "displaySequence": 20,
+                            "filterable": false,
+                            "hasRules": false,
+                            "hidden": false,
+                            "inputType": "dropdown",
+                            "isNotTranslatable": false,
+                            "label": "Ethernet Type",
+                            "messages": [
+                            ],
+                            "multiselect": false,
+                            "readonly": false,
+                            "required": false,
+                            "userValues": null,
+                            "values": [
+                                {
+                                    "defaultSelected": false,
+                                    "disabled": false,
+                                    "displaySequence": 20,
+                                    "id": "6bc4ae36-505e-d339-47b5-096d90c2455c",
+                                    "label": "Dedicated",
+                                    "name": "6bc4ae36-505e-d339-47b5-096d90c2455c",
+                                    "readonly": false,
+                                    "value": "Dedicated"
+                                },
+                                {
+                                    "defaultSelected": true,
+                                    "disabled": false,
+                                    "displaySequence": 10,
+                                    "id": "fb9179dd-bd6d-b9d0-74aa-a907ab5a26db",
+                                    "label": "Switched",
+                                    "name": "fb9179dd-bd6d-b9d0-74aa-a907ab5a26db",
+                                    "readonly": false,
+                                    "value": "Switched"
+                                }
+                            ]
+                        }
+                    ],
+                    "totalSize": 2
+                }
+            }
+        ],
+        "totalSize": 1
+    },
+    "%vlocity_namespace%__AttributeRules__c": "{}",
+    "%vlocity_namespace%__AttributesMarkupConfig__c": "",
+    "%vlocity_namespace%__CategoryData__c": [
+        {
+            "actions": {
+            },
+            "childCategories": [
+            ],
+            "displaySequence": -1,
+            "fields": {
+            },
+            "id": "a16GA00000BdHllYAF",
+            "messages": [
+            ],
+            "name": "VPN Offers",
+            "nameResult": {
+            },
+            "uiStates": {
+            }
+        }
+    ],
+    "%vlocity_namespace%__ChangeDetectorImplementation__c": "",
+    "%vlocity_namespace%__ClassId__c": "",
+    "%vlocity_namespace%__DefaultImageId__c": "",
+    "%vlocity_namespace%__EffectiveDate__c": "",
+    "%vlocity_namespace%__EndDate__c": "",
+    "%vlocity_namespace%__EndOfLifeDate__c": "",
+    "%vlocity_namespace%__FulfilmentStartDate__c": "",
+    "%vlocity_namespace%__GlobalGroupKey__c": "a98ca6f6-83f8-ab29-0b4f-dcbbf81d6290",
+    "%vlocity_namespace%__GlobalKey__c": "487a591f-2166-0164-83b7-2d6b89822bdb",
+    "%vlocity_namespace%__HeaderData__c": "",
+    "%vlocity_namespace%__HelpText__c": "",
+    "%vlocity_namespace%__IsConfigurable__c": true,
+    "%vlocity_namespace%__IsCustomerSubscription__c": false,
+    "%vlocity_namespace%__IsLocationDependent__c": false,
+    "%vlocity_namespace%__IsNotAssetizable__c": false,
+    "%vlocity_namespace%__IsOrderable__c": true,
+    "%vlocity_namespace%__JeopardySafetyIntervalUnit__c": "Seconds",
+    "%vlocity_namespace%__JeopardySafetyInterval__c": "",
+    "%vlocity_namespace%__LifecycleStatus__c": "",
+    "%vlocity_namespace%__MainFeatureQuantityUom__c": "",
+    "%vlocity_namespace%__MainFeatureQuantity__c": "",
+    "%vlocity_namespace%__MainFeatureTermInDays__c": "",
+    "%vlocity_namespace%__Modification__c": "",
+    "%vlocity_namespace%__ObjectFieldAttribute__c": "WAN_ObjectFieldAttributes.json",
+    "%vlocity_namespace%__ObjectTypeId__c": {
+        "%vlocity_namespace%__GlobalKey__c": "7e1a1b-32fcde-bf0d6f-56bc70-4a430809b",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/7e1a1b-32fcde-bf0d6f-56bc70-4a430809b",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+    },
+    "%vlocity_namespace%__ObjectTypeName__c": "WAN Object Type",
+    "%vlocity_namespace%__ParentClassId__c": "",
+    "%vlocity_namespace%__PriceListEntry__c": "WAN_PriceListEntries.json",
+    "%vlocity_namespace%__ProductChildItem__c": "WAN_ProductChildItems.json",
+    "%vlocity_namespace%__ProductRelationship__c": "WAN_ProductRelationships.json",
+    "%vlocity_namespace%__ProductSpecId__c": "",
+    "%vlocity_namespace%__ProductTemplateProductId__c": "",
+    "%vlocity_namespace%__Scope__c": "Order Item",
+    "%vlocity_namespace%__SellingEndDate__c": "",
+    "%vlocity_namespace%__SellingStartDate__c": "",
+    "%vlocity_namespace%__SpecificationSubType__c": "",
+    "%vlocity_namespace%__SpecificationType__c": "Offer",
+    "%vlocity_namespace%__StandardPremium__c": "",
+    "%vlocity_namespace%__Status__c": "Active",
+    "%vlocity_namespace%__SubType__c": "",
+    "%vlocity_namespace%__TimeToLive__c": "",
+    "%vlocity_namespace%__TrackAsAgreement__c": false,
+    "%vlocity_namespace%__Type__c": "L2 VPN",
+    "%vlocity_namespace%__VendorAccountId__c": "",
+    "%vlocity_namespace%__VersionEndDateTime__c": "",
+    "%vlocity_namespace%__VersionLabel__c": "V1",
+    "%vlocity_namespace%__VersionStartDateTime__c": "",
+    "AvailabilityDate": "",
+    "BasedOnId": "",
+    "BusinessBrandId": "",
+    "CanUseQuantitySchedule": false,
+    "CanUseRevenueSchedule": false,
+    "ConfigureDuringSale": "",
+    "Description": "A customer orders a WAN networking solution from a service provider. This item represents a solution as a whole, a container that links all parts into a single “thing”",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "",
+    "EndOfLifeDate": "",
+    "ExternalDataSourceId": "",
+    "ExternalId": "",
+    "External_ID__c": "",
+    "Family": "Networking",
+    "HarmonizedSystemCode": "",
+    "HelpText": "",
+    "IsActive": true,
+    "IsArchived": false,
+    "IsAssetizable": true,
+    "IsEnvrPrtcRegCompliant": false,
+    "IsSerialized": false,
+    "IsSoldOnlyWithOtherProds": false,
+    "MakeName": "",
+    "ManufacturerName": "",
+    "ManufacturerPartNumber": "",
+    "ModelName": "",
+    "ModelYear": "",
+    "Name": "WAN",
+    "NumberOfQuantityInstallments": "",
+    "NumberOfRevenueInstallments": "",
+    "PricebookEntry": "WAN_PricebookEntries.json",
+    "ProductCategoryCode": "",
+    "ProductCode": "VEPC_OFFERING_WAN",
+    "ProductLineCode": "",
+    "QuantityInstallmentPeriod": "",
+    "QuantityScheduleType": "",
+    "QuantityUnitOfMeasure": "",
+    "RecordTypeId": {
+        "DeveloperName": "Product",
+        "SobjectType": "Product2",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "RecordType/Product2/Product",
+        "VlocityRecordSObjectType": "RecordType"
+    },
+    "RevenueInstallmentPeriod": "",
+    "RevenueScheduleType": "",
+    "StandardPricebookEntry": [
+        {
+            "%vlocity_namespace%__FloorPrice__c": "",
+            "%vlocity_namespace%__OverageCharge__c": "",
+            "%vlocity_namespace%__OverageUOM__c": "",
+            "%vlocity_namespace%__RecurringPrice__c": 0,
+            "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+            "IsActive": true,
+            "IsArchived": false,
+            "IsDerived": false,
+            "Name": "WAN",
+            "Pricebook2.Name": "Standard Price Book",
+            "Pricebook2Id": {
+                "Name": "Standard Price Book",
+                "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+                "VlocityLookupRecordSourceKey": "Pricebook2/Standard Price Book",
+                "VlocityRecordSObjectType": "Pricebook2"
+            },
+            "Product2.%vlocity_namespace%__GlobalKey__c": "487a591f-2166-0164-83b7-2d6b89822bdb",
+            "Product2Id": {
+                "%vlocity_namespace%__GlobalKey__c": "487a591f-2166-0164-83b7-2d6b89822bdb",
+                "VlocityDataPackType": "VlocityMatchingKeyObject",
+                "VlocityMatchingRecordSourceKey": "Product2/487a591f-2166-0164-83b7-2d6b89822bdb",
+                "VlocityRecordSObjectType": "Product2"
+            },
+            "ProductCode": "VEPC_OFFERING_WAN",
+            "UnitPrice": 0,
+            "UseStandardPrice": false,
+            "VlocityDataPackType": "SObject",
+            "VlocityRecordSObjectType": "PricebookEntry",
+            "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/Standard Price Book/Product2/487a591f-2166-0164-83b7-2d6b89822bdb"
+        }
+    ],
+    "StockKeepingUnit": "",
+    "TaxPolicyId": "",
+    "TransferRecordMode": "",
+    "UniversalProductCode": "",
+    "VersionName": "",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "Product2",
+    "VlocityRecordSourceKey": "Product2/487a591f-2166-0164-83b7-2d6b89822bdb"
+}

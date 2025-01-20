@@ -1,0 +1,34 @@
+[
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": "",
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "IsArchived": false,
+        "IsDerived": false,
+        "Name": "Instant Connect",
+        "Pricebook2.Name": "Standard Price Book",
+        "Pricebook2Id": {
+            "Name": "Standard Price Book",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Pricebook2/Standard Price Book",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2.%vlocity_namespace%__GlobalKey__c": "af719269-9e07-273b-c383-37dcba616284",
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": "af719269-9e07-273b-c383-37dcba616284",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/af719269-9e07-273b-c383-37dcba616284",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "CCC_INSTANT_CONNECT",
+        "ProductSellingModelId": "0jPGA0000004Hbi2AE",
+        "UnitPrice": 5,
+        "UseStandardPrice": false,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/Standard Price Book/Product2/af719269-9e07-273b-c383-37dcba616284"
+    }
+]

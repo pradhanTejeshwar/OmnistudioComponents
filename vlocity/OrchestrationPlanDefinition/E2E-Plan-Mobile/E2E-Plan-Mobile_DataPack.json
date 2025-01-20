@@ -1,0 +1,11 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "6765ce86-dd06-46dc-c8d7-d8f65fcf55b1",
+    "%vlocity_namespace%__IsSchedulingEnabled__c": false,
+    "%vlocity_namespace%__SchedulingExpirationIntervalSeconds__c": "",
+    "%vlocity_namespace%__Scope__c": "Global",
+    "%vlocity_namespace%__ShowOrder__c": "",
+    "Name": "E2E Plan - Mobile",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationPlanDefinition__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationPlanDefinition__c/E2E Plan - Mobile"
+}
