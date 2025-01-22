@@ -1,8 +1,0 @@
-{
-    "%vlocity_namespace%__Description__c": "Enable Use of Semicolon Delimiter for Multi-select Picklist Name Values",
-    "%vlocity_namespace%__SetupValue__c": "true",
-    "Name": "CpqAttrMLSemicolonDelimiterEnable",
-    "VlocityDataPackType": "SObject",
-    "VlocityRecordSObjectType": "%vlocity_namespace%__CpqConfigurationSetup__c",
-    "VlocityRecordSourceKey": "%vlocity_namespace%__CpqConfigurationSetup__c/CpqAttrMLSemicolonDelimiterEnable"
-}

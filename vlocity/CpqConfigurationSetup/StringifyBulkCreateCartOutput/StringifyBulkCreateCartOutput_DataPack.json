@@ -1,8 +1,0 @@
-{
-    "%vlocity_namespace%__Description__c": "Stringify Bulk Create Cart Response Output Node when Standard DC APIs is Enabled",
-    "%vlocity_namespace%__SetupValue__c": "false",
-    "Name": "StringifyBulkCreateCartOutput",
-    "VlocityDataPackType": "SObject",
-    "VlocityRecordSObjectType": "%vlocity_namespace%__CpqConfigurationSetup__c",
-    "VlocityRecordSourceKey": "%vlocity_namespace%__CpqConfigurationSetup__c/StringifyBulkCreateCartOutput"
-}
